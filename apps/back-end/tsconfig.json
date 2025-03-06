@@ -1,5 +1,5 @@
 {
-  "extends": "../../tsconfig.base.json",
+  "extends": ["../../tsconfig.base.json","./tsconfig.app.json"],
   "compilerOptions": {
     "declaration": true,
     "removeComments": true,
@@ -14,7 +14,8 @@
     "esModuleInterop": true,
     "module": "NodeNext", // or "Node16" or "ESNext"
     "moduleResolution": "NodeNext",
-    "target": "ES2022"
+    "target": "ES2022",
+    "types": ["node", "express", "puppeteer"],
   },
   "include": ["src/**/*.ts"],
   "exclude": ["node_modules", "dist", "test", "**/*spec.ts"]

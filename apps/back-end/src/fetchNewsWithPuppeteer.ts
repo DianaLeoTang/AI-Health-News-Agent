@@ -6,7 +6,7 @@
  * @FilePath: /AI-Health-News-Agent/apps/back-end/src/fetchNewsWithPuppeteer.ts
  */
 
-import puppeteer from 'puppeteer';
+import puppeteer, { Browser, Page } from 'puppeteer';
 import { NEWS_SOURCES } from './config';
 
 interface NewsArticle {
@@ -16,10 +16,10 @@ interface NewsArticle {
   source?: string;
 }
 
-// 重用浏览器实例
-let browserInstance: puppeteer.Browser | null = null;
+// Reuse browser instance
+let browserInstance: Browser | null = null;
 
-async function getBrowser(): Promise<puppeteer.Browser> {
+async function getBrowser(): Promise<Browser> {
   if (!browserInstance || !browserInstance.isConnected()) {
     browserInstance = await puppeteer.launch({ 
       headless: true,
@@ -36,7 +36,7 @@ async function getBrowser(): Promise<puppeteer.Browser> {
   return browserInstance;
 }
 
-// 关闭浏览器实例
+// Close browser instance
 export async function closeBrowser(): Promise<void> {
   if (browserInstance && browserInstance.isConnected()) {
     await browserInstance.close();
@@ -45,17 +45,17 @@ export async function closeBrowser(): Promise<void> {
 }
 
 export async function fetchNewsWithPuppeteer(url: string, timeout = 30000): Promise<NewsArticle[]> {
-  let page: puppeteer.Page | null = null;
+  let page: Page | null = null;
   
   try {
     const browser = await getBrowser();
     page = await browser.newPage();
 
-    // 提高性能的设置
+    // Performance optimization settings
     await page.setRequestInterception(true);
     page.on('request', (req) => {
       const resourceType = req.resourceType();
-      // 阻止加载不必要的资源
+      // Block unnecessary resources
       if (['image', 'stylesheet', 'font', 'media'].includes(resourceType)) {
         req.abort();
       } else {
@@ -63,16 +63,16 @@ export async function fetchNewsWithPuppeteer(url: string, timeout = 30000): Prom
       }
     });
 
-    // 设置用户代理
+    // Set user agent
     await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.0.0 Safari/537.36');
     
-    // 设置超时
+    // Set timeout
     await page.goto(url, { 
-      waitUntil: 'domcontentloaded', // 更改为domcontentloaded而非networkidle2
+      waitUntil: 'domcontentloaded', // Changed from networkidle2 for better performance
       timeout 
     });
-
-    // 使用更精确的选择器，减少DOM查询范围
+    
+    // Use more specific selectors to reduce DOM query scope
     const articles = await page.evaluate((siteUrl) => {
       const news: Array<{
         title: string;
@@ -80,7 +80,7 @@ export async function fetchNewsWithPuppeteer(url: string, timeout = 30000): Prom
         summary: string;
       }> = [];
       
-      // 获取所有文章元素
+      // Get all article elements
       const articleElements = document.querySelectorAll('article, .article, .news-item, .post, [class*="article"], [class*="news"]');
       
       articleElements.forEach((el) => {
@@ -92,7 +92,7 @@ export async function fetchNewsWithPuppeteer(url: string, timeout = 30000): Prom
         let link = linkElement?.href;
         let summary = summaryElement?.innerText?.trim();
 
-        // 处理相对链接
+        // Handle relative links
         if (link && !link.startsWith('http')) {
           link = new URL(link, siteUrl).href;
         }
@@ -109,60 +109,50 @@ export async function fetchNewsWithPuppeteer(url: string, timeout = 30000): Prom
       return news;
     }, url);
 
-    if (page) {
-      await page.close();
-    }
-    
     return articles;
   } catch (error) {
-    console.error(`❌ Error fetching news from ${url}: ${(error as Error).message}`);
+    console.error(`❌ Error fetching news from ${url}: ${error instanceof Error ? error.message : String(error)}`);
     return [];
   } finally {
-    // 确保页面被关闭，释放资源
+    // Ensure page is closed to release resources
     if (page) {
       try {
         await page.close();
       } catch (e) {
-        // 忽略关闭页面时的错误
+        // Ignore errors when closing the page
       }
     }
   }
 }
 
 export async function getAllNews(): Promise<NewsArticle[]> {
-  let allNews: NewsArticle[] = [];
-  
   try {
-    // 并行抓取所有新闻源
+    // Parallel fetch from all news sources
     const promises = NEWS_SOURCES.map(async (source) => {
       try {
         const news = await fetchNewsWithPuppeteer(source);
-        // 添加来源信息
+        // Add source information
         return news.map(item => ({...item, source}));
       } catch (error) {
-        console.error(`Failed to fetch from ${source}: ${(error as Error).message}`);
+        console.error(`Failed to fetch from ${source}: ${error instanceof Error ? error.message : String(error)}`);
         return [];
       }
     });
     
-    // 等待所有请求完成
+    // Wait for all requests to complete
     const results = await Promise.all(promises);
     
-    // 合并结果
-    allNews = results.flat();
-    
-    return allNews;
+    // Merge results
+    return results.flat();
   } catch (error) {
-    console.error(`Error in getAllNews: ${(error as Error).message}`);
-    return allNews;
-  } finally {
-    // 在完成所有爬取后关闭浏览器以释放资源
-    // 注意：如果您的应用是长时间运行的服务，可能希望保持浏览器实例存活
-    // await closeBrowser();
+    console.error(`Error in getAllNews: ${error instanceof Error ? error.message : String(error)}`);
+    return [];
   }
+  // Note: Browser is intentionally kept alive for long-running services
+  // Call closeBrowser() explicitly when needed
 }
 
-// 添加一个超时控制的辅助函数
+// Helper function with timeout control
 export function withTimeout<T>(promise: Promise<T>, timeoutMs: number, errorMessage: string): Promise<T> {
   let timeoutHandle: NodeJS.Timeout;
   
@@ -173,5 +163,7 @@ export function withTimeout<T>(promise: Promise<T>, timeoutMs: number, errorMess
   return Promise.race([
     promise,
     timeoutPromise
-  ]).finally(() => clearTimeout(timeoutHandle));
+  ]).finally(() => {
+    clearTimeout(timeoutHandle);
+  });
 }
