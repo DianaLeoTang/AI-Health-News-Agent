@@ -1,0 +1,3508 @@
+[
+    {
+      "title": "Latest Articles Latest articles RSS feed",
+      "link": "https://www.annualreviews.org/rss/content/journals/soc/latestarticles?fmt=rss",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "The Impact of Undocumented Status in the United States: Empirical Challenges and New Frontiers",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-soc-031021-012330",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "The Impact of Undocumented Status in the United States: Empirical Challenges and New Frontiers",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-soc-031021-012330",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "The Perils and Promises of Unequal Democracy: Insights from the Sociology of India",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090324-022910",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "The Perils and Promises of Unequal Democracy: Insights from the Sociology of India",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090324-022910",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Impacts of Immigration Policies on Families",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090324-020834",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Impacts of Immigration Policies on Families",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090324-020834",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Survey Experiments in Sociology",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-soc-083024-070113",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Survey Experiments in Sociology",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-soc-083024-070113",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "The Social Construction of Skill in International Migration: Perspectives from Asia",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090324-033254",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "The Social Construction of Skill in International Migration: Perspectives from Asia",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090324-033254",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Rights in China: Myths, Abuses, and Politics",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090523-050016",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Rights in China: Myths, Abuses, and Politics",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090523-050016",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Whither Digitality? The Relationship Between Orality, Literacy, and Digitality, Past and Present: From Spoken Traditions to Digital Media",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-soc-033022-035644",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Whither Digitality? The Relationship Between Orality, Literacy, and Digitality, Past and Present: From Spoken Traditions to Digital Media",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-soc-033022-035644",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "The United States in the World Today: How Sociologists Think About It and Why It Matters",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-soc-031021-040637",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "The United States in the World Today: How Sociologists Think About It and Why It Matters",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-soc-031021-040637",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Online Illegal Cryptomarkets",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090523-052916",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Online Illegal Cryptomarkets",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090523-052916",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "The Rise and Fall of the Sociology of the Global City",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090523-042533",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "The Rise and Fall of the Sociology of the Global City",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090523-042533",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Birds of a Feather: Homophily in Social Networks",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.soc.27.1.415",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Birds of a Feather: Homophily in Social Networks",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.soc.27.1.415",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Social Capital: Its Origins and Applications in Modern Sociology",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.soc.24.1.1",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Social Capital: Its Origins and Applications in Modern Sociology",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.soc.24.1.1",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Conceptualizing Stigma",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.soc.27.1.363",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Conceptualizing Stigma",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.soc.27.1.363",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Framing Processes and Social Movements: An Overview and Assessment",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.soc.26.1.611",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Framing Processes and Social Movements: An Overview and Assessment",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.soc.26.1.611",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Organizational Learning",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.so.14.080188.001535",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Organizational Learning",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.so.14.080188.001535",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "The Study of Boundaries in the Social Sciences",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.soc.28.110601.141107",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "The Study of Boundaries in the Social Sciences",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.soc.28.110601.141107",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Assessing “Neighborhood Effects”: Social Processes and New Directions in Research",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.soc.28.110601.141114",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Assessing “Neighborhood Effects”: Social Processes and New Directions in Research",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.soc.28.110601.141114",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Social Exchange Theory",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.so.02.080176.002003",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Social Exchange Theory",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.so.02.080176.002003",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Focus Groups",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.soc.22.1.129",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Focus Groups",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.soc.22.1.129",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Culture and Cognition",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.soc.23.1.263",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Culture and Cognition",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.soc.23.1.263",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/soc"
+    },
+    {
+      "title": "Latest Articles Latest articles RSS feed",
+      "link": "https://www.annualreviews.org/rss/content/journals/publhealth/latestarticles?fmt=rss",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Breaking Barriers with Data Equity: The Essential Role of Data Disaggregation in Achieving Health Equity",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-072523-093838",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Breaking Barriers with Data Equity: The Essential Role of Data Disaggregation in Achieving Health Equity",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-072523-093838",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Conceptualizing and Measuring Systemic Racism",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-060222-032022",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Conceptualizing and Measuring Systemic Racism",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-060222-032022",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "The Impact of Health Insurance on Mortality",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-061022-042335",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "The Impact of Health Insurance on Mortality",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-061022-042335",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Evidence for Public Policies to Prevent Suicide Death in the United States",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-071723-121359",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Evidence for Public Policies to Prevent Suicide Death in the United States",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-071723-121359",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Next Steps in Efforts to Address the Obesity Epidemic",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-060922-044108",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Next Steps in Efforts to Address the Obesity Epidemic",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-060922-044108",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Health-Oriented Strategy for Clean Air and Climate Actions: Differential Health Effects of Atmospheric Components",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-071723-015722",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Health-Oriented Strategy for Clean Air and Climate Actions: Differential Health Effects of Atmospheric Components",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-071723-015722",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Assessing Policy Impacts on Chronic Disease Risk Reduction: The Science and Art of Policy Rating Systems",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-071723-113826",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Assessing Policy Impacts on Chronic Disease Risk Reduction: The Science and Art of Policy Rating Systems",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-071723-113826",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Harm Reduction: The Neglected Pillar of US Drug Policy",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-071723-112620",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Harm Reduction: The Neglected Pillar of US Drug Policy",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-071723-112620",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Global Burden of Disease from Environmental Factors",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-071823-105338",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Global Burden of Disease from Environmental Factors",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-071823-105338",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Quantification of Epigenetic Aging in Public Health",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-060222-015657",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Quantification of Epigenetic Aging in Public Health",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-060222-015657",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "REVIEW OF COMMUNITY-BASED RESEARCH: Assessing Partnership Approaches to Improve Public Health",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.publhealth.19.1.173",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "REVIEW OF COMMUNITY-BASED RESEARCH: Assessing Partnership Approaches to Improve Public Health",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.publhealth.19.1.173",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Nature and Health",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-032013-182443",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Nature and Health",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-032013-182443",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "The Epidemiology of Depression Across Cultures",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-031912-114409",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "The Epidemiology of Depression Across Cultures",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-031912-114409",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Measuring Social Class in US Public Health Research: Concepts, Methodologies, and Guidelines",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.publhealth.18.1.341",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Measuring Social Class in US Public Health Research: Concepts, Methodologies, and Guidelines",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.publhealth.18.1.341",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Racism and Health: Evidence and Needed Research",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-040218-043750",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Racism and Health: Evidence and Needed Research",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-040218-043750",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "The Social Determinants of Health: Coming of Age",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-031210-101218",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "The Social Determinants of Health: Coming of Age",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-031210-101218",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Acute Respiratory Effects of Particulate Air Pollution",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.pu.15.050194.000543",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Acute Respiratory Effects of Particulate Air Pollution",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.pu.15.050194.000543",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "The Role of Behavioral Science Theory in Development and Implementation of Public Health Interventions",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.publhealth.012809.103604",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "The Role of Behavioral Science Theory in Development and Implementation of Public Health Interventions",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.publhealth.012809.103604",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Mediation Analysis: A Practitioner's Guide",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-032315-021402",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Mediation Analysis: A Practitioner's Guide",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-032315-021402",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "The Prescription Opioid and Heroin Crisis: A Public Health Approach to an Epidemic of Addiction",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-031914-122957",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "The Prescription Opioid and Heroin Crisis: A Public Health Approach to an Epidemic of Addiction",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-031914-122957",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/publhealth"
+    },
+    {
+      "title": "Latest Articles Latest articles RSS feed",
+      "link": "https://www.annualreviews.org/rss/content/journals/nutr/latestarticles?fmt=rss",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "Unhealthy Food and Beverage Marketing to Children in the Digital Age: Global Research and Policy Challenges and Priorities",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-062322-014102",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "Unhealthy Food and Beverage Marketing to Children in the Digital Age: Global Research and Policy Challenges and Priorities",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-062322-014102",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "The Potential Effectiveness of Nutrient Declarations and Nutrition and Health Claims for Improving Population Diets",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-011224-054913",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "The Potential Effectiveness of Nutrient Declarations and Nutrition and Health Claims for Improving Population Diets",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-011224-054913",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "The Potential Effectiveness of Front-of-Pack Nutrition Labeling for Improving Population Diets",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-011224-030917",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "The Potential Effectiveness of Front-of-Pack Nutrition Labeling for Improving Population Diets",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-011224-030917",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "Sugar-Sweetened Beverages and Adverse Human Health Outcomes: An Umbrella Review of Meta-Analyses of Observational Studies",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-062322-020650",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "Sugar-Sweetened Beverages and Adverse Human Health Outcomes: An Umbrella Review of Meta-Analyses of Observational Studies",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-062322-020650",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "Multilevel Interventions Targeting Obesity: State of the Science and Future Directions",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-122123-020340",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "Multilevel Interventions Targeting Obesity: State of the Science and Future Directions",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-122123-020340",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "Helminth Infections and Diabetes: Mechanisms Accounting for Risk Amelioration",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-061121-100742",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "Helminth Infections and Diabetes: Mechanisms Accounting for Risk Amelioration",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-061121-100742",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "Does Maternal Diet Influence Future Infant Taste and Odor Preferences? A Critical Analysis",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-121222-101404",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "Does Maternal Diet Influence Future Infant Taste and Odor Preferences? A Critical Analysis",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-121222-101404",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "Nutritional Challenges and Treatment After Bariatric Surgery",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-061121-101547",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "Nutritional Challenges and Treatment After Bariatric Surgery",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-061121-101547",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "Decoding the Foodome: Molecular Networks Connecting Diet and Health",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-062322-030557",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "Decoding the Foodome: Molecular Networks Connecting Diet and Health",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-062322-030557",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "Contemporary Perioperative Nutritional Care",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-062222-021228",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "Contemporary Perioperative Nutritional Care",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-062222-021228",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "DIETARY FLAVONOIDS: Bioavailability, Metabolic Effects, and Safety",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.22.111401.144957",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "DIETARY FLAVONOIDS: Bioavailability, Metabolic Effects, and Safety",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.22.111401.144957",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "HOW HOST-MICROBIAL INTERACTIONS SHAPE THE NUTRIENT ENVIRONMENT OF THE MAMMALIAN INTESTINE",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.22.011602.092259",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "HOW HOST-MICROBIAL INTERACTIONS SHAPE THE NUTRIENT ENVIRONMENT OF THE MAMMALIAN INTESTINE",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.22.011602.092259",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "Antioxidants in Human Health and Disease",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.nu.16.070196.000341",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "Antioxidants in Human Health and Disease",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.nu.16.070196.000341",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "DEVELOPMENT OF FOOD PREFERENCES",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.19.1.41",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "DEVELOPMENT OF FOOD PREFERENCES",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.19.1.41",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "SUCCESSFUL WEIGHT LOSS MAINTENANCE",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.21.1.323",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "SUCCESSFUL WEIGHT LOSS MAINTENANCE",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.21.1.323",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "HOMOCYSTEINE METABOLISM",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.19.1.217",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "HOMOCYSTEINE METABOLISM",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.19.1.217",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "Fuel Metabolism in Starvation",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.26.061505.111258",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "Fuel Metabolism in Starvation",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.26.061505.111258",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "INHIBITION OF CARCINOGENESIS BY DIETARY POLYPHENOLIC COMPOUNDS",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.21.1.381",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "INHIBITION OF CARCINOGENESIS BY DIETARY POLYPHENOLIC COMPOUNDS",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.21.1.381",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "Branched-Chain Amino Acid Metabolism",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.nu.04.070184.002205",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "Branched-Chain Amino Acid Metabolism",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.nu.04.070184.002205",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "STRUCTURE, FUNCTION, AND DIETARY REGULATION OF Δ6, Δ5, AND Δ9 DESATURASES",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.24.121803.063211",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "STRUCTURE, FUNCTION, AND DIETARY REGULATION OF Δ6, Δ5, AND Δ9 DESATURASES",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.24.121803.063211",
+      "summary": "No summary available",
+      "source": "https://www.annualreviews.org/content/journals/nutr"
+    },
+    {
+      "title": "A life-course approach to women’s health",
+      "link": "https://www.nature.com/articles/s41591-023-02777-8",
+      "summary": "We are launching a new Series as a starting point for discussions on how to improve the health of women and girls as part of a route to achieving global health equity.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "A life-course approach to women’s health",
+      "link": "https://www.nature.com/articles/s41591-023-02777-8",
+      "summary": "We are launching a new Series as a starting point for discussions on how to improve the health of women and girls as part of a route to achieving global health equity.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "A life-course approach to women’s health",
+      "link": "https://www.nature.com/articles/s41591-023-02777-8",
+      "summary": "We are launching a new Series as a starting point for discussions on how to improve the health of women and girls as part of a route to achieving global health equity.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Telehealth enables safe medication abortion in shifting health and legal contexts",
+      "link": "https://www.nature.com/articles/s41591-024-02876-0",
+      "summary": "Telehealth provision of medication abortion is safe and effective, but ensuring equitable access is challenging in the USA — and further compounded by an upcoming Supreme Court case.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Telehealth enables safe medication abortion in shifting health and legal contexts",
+      "link": "https://www.nature.com/articles/s41591-024-02876-0",
+      "summary": "Telehealth provision of medication abortion is safe and effective, but ensuring equitable access is challenging in the USA — and further compounded by an upcoming Supreme Court case.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Telehealth enables safe medication abortion in shifting health and legal contexts",
+      "link": "https://www.nature.com/articles/s41591-024-02876-0",
+      "summary": "Telehealth provision of medication abortion is safe and effective, but ensuring equitable access is challenging in the USA — and further compounded by an upcoming Supreme Court case.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Surge in endometriosis research after decades of underfunding could herald new era for women’s health",
+      "link": "https://www.nature.com/articles/s41591-024-02795-0",
+      "summary": "Advances in organoids and the role of the microbiome and diet are leading to new diagnostics and treatments for endometriosis, motivating a precision health approach to this long-neglected disease.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Surge in endometriosis research after decades of underfunding could herald new era for women’s health",
+      "link": "https://www.nature.com/articles/s41591-024-02795-0",
+      "summary": "Advances in organoids and the role of the microbiome and diet are leading to new diagnostics and treatments for endometriosis, motivating a precision health approach to this long-neglected disease.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Delivering high-quality childbirth care",
+      "link": "https://www.nature.com/articles/s41591-024-02812-2",
+      "summary": "A pilot trial of the WHO’s Labour Care Guide reveals important considerations for implementation and for future trials aimed at reducing the inappropriate use of cesarean section, particularly in low- and middle-income countries.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Delivering high-quality childbirth care",
+      "link": "https://www.nature.com/articles/s41591-024-02812-2",
+      "summary": "A pilot trial of the WHO’s Labour Care Guide reveals important considerations for implementation and for future trials aimed at reducing the inappropriate use of cesarean section, particularly in low- and middle-income countries.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Implementing plans for global elimination of cervical cancer",
+      "link": "https://www.nature.com/articles/s41591-023-02577-0",
+      "summary": "Evidence supports the use of primary HPV testing to accelerate the global elimination of cervical cancer, but such recommendations must be viewed in the context of the fragile healthcare systems and complex implementation challenges in low-income and lower-middle income countries.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Implementing plans for global elimination of cervical cancer",
+      "link": "https://www.nature.com/articles/s41591-023-02577-0",
+      "summary": "Evidence supports the use of primary HPV testing to accelerate the global elimination of cervical cancer, but such recommendations must be viewed in the context of the fragile healthcare systems and complex implementation challenges in low-income and lower-middle income countries.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Beyond bruises: the lifelong toll of violence on women’s health",
+      "link": "https://www.nature.com/articles/s41591-023-02654-4",
+      "summary": "The major health consequences of violence against women present a compelling case for global prevention, detection and intervention initiatives.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Beyond bruises: the lifelong toll of violence on women’s health",
+      "link": "https://www.nature.com/articles/s41591-023-02654-4",
+      "summary": "The major health consequences of violence against women present a compelling case for global prevention, detection and intervention initiatives.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Person-centered HIV PrEP for cisgender women",
+      "link": "https://www.nature.com/articles/s41591-023-02618-8",
+      "summary": "Two modelling studies offer compelling evidence that less-than-perfect adherence to HIV pre-exposure prophylaxis can still provide reasonable protection for cisgender women — providing optimism for a more person-centered approach and lower discontinuation rates.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Person-centered HIV PrEP for cisgender women",
+      "link": "https://www.nature.com/articles/s41591-023-02618-8",
+      "summary": "Two modelling studies offer compelling evidence that less-than-perfect adherence to HIV pre-exposure prophylaxis can still provide reasonable protection for cisgender women — providing optimism for a more person-centered approach and lower discontinuation rates.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Expanding the reach and scalability of perinatal mental health interventions",
+      "link": "https://www.nature.com/articles/s41591-024-02825-x",
+      "summary": "A new study shows the benefits of treating anxiety to prevent postnatal depression — and highlights the need for more pragmatic research to simplify treatment packages, address other comorbid symptoms, and deliver effective perinatal mental health care at scale.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Expanding the reach and scalability of perinatal mental health interventions",
+      "link": "https://www.nature.com/articles/s41591-024-02825-x",
+      "summary": "A new study shows the benefits of treating anxiety to prevent postnatal depression — and highlights the need for more pragmatic research to simplify treatment packages, address other comorbid symptoms, and deliver effective perinatal mental health care at scale.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Reproductive rights in the United States: acquiescence is not a strategy",
+      "link": "https://www.nature.com/articles/s41591-024-02921-y",
+      "summary": "Scientific and medical conferences should not be held in states that ban abortion, as such bans put the lives of women at risk.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Reproductive rights in the United States: acquiescence is not a strategy",
+      "link": "https://www.nature.com/articles/s41591-024-02921-y",
+      "summary": "Scientific and medical conferences should not be held in states that ban abortion, as such bans put the lives of women at risk.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Promoting gender equity in the scientific and health workforce is essential to improve women’s health",
+      "link": "https://www.nature.com/articles/s41591-024-02872-4",
+      "summary": "Women’s health can be improved by increasing the representation of women in leadership roles in science, medicine and public health.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Promoting gender equity in the scientific and health workforce is essential to improve women’s health",
+      "link": "https://www.nature.com/articles/s41591-024-02872-4",
+      "summary": "Women’s health can be improved by increasing the representation of women in leadership roles in science, medicine and public health.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Women’s health is on the ballot in 2024",
+      "link": "https://www.nature.com/articles/s41591-024-03116-1",
+      "summary": "Politics affects women’s health, from abortion access to funding for health systems, and voters should choose their politicians accordingly.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Women’s health is on the ballot in 2024",
+      "link": "https://www.nature.com/articles/s41591-024-03116-1",
+      "summary": "Politics affects women’s health, from abortion access to funding for health systems, and voters should choose their politicians accordingly.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Citizen science as an instrument for women’s health research",
+      "link": "https://www.nature.com/articles/s41591-024-03371-2",
+      "summary": "Citizen-science approaches can help challenge taboos around intimate health topics, amplify underrepresented voices and prioritize women’s involvement in health research; this Perspective considers the key challenges and ingredients for success.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Citizen science as an instrument for women’s health research",
+      "link": "https://www.nature.com/articles/s41591-024-03371-2",
+      "summary": "Citizen-science approaches can help challenge taboos around intimate health topics, amplify underrepresented voices and prioritize women’s involvement in health research; this Perspective considers the key challenges and ingredients for success.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Citizen science as an instrument for women’s health research",
+      "link": "https://www.nature.com/articles/s41591-024-03371-2",
+      "summary": "Citizen-science approaches can help challenge taboos around intimate health topics, amplify underrepresented voices and prioritize women’s involvement in health research; this Perspective considers the key challenges and ingredients for success.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Women’s health and rights in the twenty-first century",
+      "link": "https://www.nature.com/articles/s41591-024-03036-0",
+      "summary": "This Review explores the intersectionality between women’s sexual and reproductive health and rights against the backdrop of technological advances and global crises and provides a set of actionable priorities to advance this cause.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Women’s health and rights in the twenty-first century",
+      "link": "https://www.nature.com/articles/s41591-024-03036-0",
+      "summary": "This Review explores the intersectionality between women’s sexual and reproductive health and rights against the backdrop of technological advances and global crises and provides a set of actionable priorities to advance this cause.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Self-care interventions for women’s health and well-being",
+      "link": "https://www.nature.com/articles/s41591-024-02844-8",
+      "summary": "Self-care interventions have the potential to improve health coverage for women while offering greater agency and autonomy, but only if certain barriers—such as stigma and cost—can be overcome.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Self-care interventions for women’s health and well-being",
+      "link": "https://www.nature.com/articles/s41591-024-02844-8",
+      "summary": "Self-care interventions have the potential to improve health coverage for women while offering greater agency and autonomy, but only if certain barriers—such as stigma and cost—can be overcome.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "A life-course approach to tackling noncommunicable diseases in women",
+      "link": "https://www.nature.com/articles/s41591-023-02738-1",
+      "summary": "The unique risks and needs of women in relation to noncommunicable diseases offer myriad opportunities to intervene and prevent disease, but several key barriers to implementation must be addressed.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "A life-course approach to tackling noncommunicable diseases in women",
+      "link": "https://www.nature.com/articles/s41591-023-02738-1",
+      "summary": "The unique risks and needs of women in relation to noncommunicable diseases offer myriad opportunities to intervene and prevent disease, but several key barriers to implementation must be addressed.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Effectiveness and safety of telehealth medication abortion in the USA",
+      "link": "https://www.nature.com/articles/s41591-024-02834-w",
+      "summary": "In a prospective study across US states where abortion remains legal, telehealth medication abortion, provided primarily without tests, was effective, safe and comparable to previous findings from large US studies investigating in-person medication abortion care.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Effectiveness and safety of telehealth medication abortion in the USA",
+      "link": "https://www.nature.com/articles/s41591-024-02834-w",
+      "summary": "In a prospective study across US states where abortion remains legal, telehealth medication abortion, provided primarily without tests, was effective, safe and comparable to previous findings from large US studies investigating in-person medication abortion care.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Effectiveness and safety of telehealth medication abortion in the USA",
+      "link": "https://www.nature.com/articles/s41591-024-02834-w",
+      "summary": "In a prospective study across US states where abortion remains legal, telehealth medication abortion, provided primarily without tests, was effective, safe and comparable to previous findings from large US studies investigating in-person medication abortion care.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Real-world implementation of a multilevel interventions program to prevent mother-to-child transmission of HBV in China",
+      "link": "https://www.nature.com/articles/s41591-023-02782-x",
+      "summary": "Interim analysis of the SHIELD program, adopting multilevel interventions, showcases low mother-to-child transmission (MTCT) rates of hepatitis B virus (HBV) across different hospital and community settings in China.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Real-world implementation of a multilevel interventions program to prevent mother-to-child transmission of HBV in China",
+      "link": "https://www.nature.com/articles/s41591-023-02782-x",
+      "summary": "Interim analysis of the SHIELD program, adopting multilevel interventions, showcases low mother-to-child transmission (MTCT) rates of hepatitis B virus (HBV) across different hospital and community settings in China.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Effects of the WHO Labour Care Guide on cesarean section in India: a pragmatic, stepped-wedge, cluster-randomized pilot trial",
+      "link": "https://www.nature.com/articles/s41591-023-02751-4",
+      "summary": "To evaluate the effects of implementing the WHO Labour Care Guide on cesarean section rates, as compared to routine intrapartum care, a pilot trial conducted in India generated preliminary evidence around the effectiveness of the strategy that can inform larger definitive trials.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Effects of the WHO Labour Care Guide on cesarean section in India: a pragmatic, stepped-wedge, cluster-randomized pilot trial",
+      "link": "https://www.nature.com/articles/s41591-023-02751-4",
+      "summary": "To evaluate the effects of implementing the WHO Labour Care Guide on cesarean section rates, as compared to routine intrapartum care, a pilot trial conducted in India generated preliminary evidence around the effectiveness of the strategy that can inform larger definitive trials.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Benefits, harms and cost-effectiveness of cervical screening, triage and treatment strategies for women in the general population",
+      "link": "https://www.nature.com/articles/s41591-023-02600-4",
+      "summary": "A modelled evaluation of screening and treatment strategies for prevention of cervical cancer in 78 low- and lower-middle-income countries provides evidence to support the World Health Organization’s recommendation of primary HPV testing for women in the general population.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Benefits, harms and cost-effectiveness of cervical screening, triage and treatment strategies for women in the general population",
+      "link": "https://www.nature.com/articles/s41591-023-02600-4",
+      "summary": "A modelled evaluation of screening and treatment strategies for prevention of cervical cancer in 78 low- and lower-middle-income countries provides evidence to support the World Health Organization’s recommendation of primary HPV testing for women in the general population.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Benefits and harms of cervical screening, triage and treatment strategies in women living with HIV",
+      "link": "https://www.nature.com/articles/s41591-023-02601-3",
+      "summary": "A model evaluating cervical screening, triage and treatment strategies to prevent cervical cancer in women living with HIV in Tanzania provides evidence to support the World Health Organization’s recommendation of primary HPV testing starting at age 25 years with 3–5-year regular screening intervals.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Benefits and harms of cervical screening, triage and treatment strategies in women living with HIV",
+      "link": "https://www.nature.com/articles/s41591-023-02601-3",
+      "summary": "A model evaluating cervical screening, triage and treatment strategies to prevent cervical cancer in women living with HIV in Tanzania provides evidence to support the World Health Organization’s recommendation of primary HPV testing starting at age 25 years with 3–5-year regular screening intervals.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Durability of single-dose HPV vaccination in young Kenyan women: randomized controlled trial 3-year results",
+      "link": "https://www.nature.com/articles/s41591-023-02658-0",
+      "summary": "In a prespecified 3-year analysis of the KEN SHE trial, single-dose HPV vaccination was shown to be well tolerated and provided durable protection against cervical HPV infection in Kenyan women aged 15–20 years.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Durability of single-dose HPV vaccination in young Kenyan women: randomized controlled trial 3-year results",
+      "link": "https://www.nature.com/articles/s41591-023-02658-0",
+      "summary": "In a prespecified 3-year analysis of the KEN SHE trial, single-dose HPV vaccination was shown to be well tolerated and provided durable protection against cervical HPV infection in Kenyan women aged 15–20 years.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Health effects associated with exposure to intimate partner violence against women and childhood sexual abuse: a Burden of Proof study",
+      "link": "https://www.nature.com/articles/s41591-023-02629-5",
+      "summary": "A meta-analysis using the burden of proof risk function identified consistent evidence supporting harmful associations between the exposure to intimate partner violence against women and childhood sexual abuse on health outcomes.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Health effects associated with exposure to intimate partner violence against women and childhood sexual abuse: a Burden of Proof study",
+      "link": "https://www.nature.com/articles/s41591-023-02629-5",
+      "summary": "A meta-analysis using the burden of proof risk function identified consistent evidence supporting harmful associations between the exposure to intimate partner violence against women and childhood sexual abuse on health outcomes.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Efficacy estimates of oral pre-exposure prophylaxis for HIV prevention in cisgender women with partial adherence",
+      "link": "https://www.nature.com/articles/s41591-023-02564-5",
+      "summary": "Pre-exposure prophylaxis (PrEP) with daily antiretrovirals to prevent human immunodeficiency virus type 1 acquisition has not been shown to be consistently effective in cisgender women. Modeling adherence to daily PrEP clarifies how robust protection can be achieved.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Efficacy estimates of oral pre-exposure prophylaxis for HIV prevention in cisgender women with partial adherence",
+      "link": "https://www.nature.com/articles/s41591-023-02564-5",
+      "summary": "Pre-exposure prophylaxis (PrEP) with daily antiretrovirals to prevent human immunodeficiency virus type 1 acquisition has not been shown to be consistently effective in cisgender women. Modeling adherence to daily PrEP clarifies how robust protection can be achieved.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Model-based predictions of protective HIV pre-exposure prophylaxis adherence levels in cisgender women",
+      "link": "https://www.nature.com/articles/s41591-023-02615-x",
+      "summary": "Modeling shows that antiretroviral treatment as pre-exposure prophylaxis (PrEP) can be highly effective in cisgender women at preventing HIV-1 acquisition, but underscores the need to understand the barriers that limit PrEP adherence in women.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Model-based predictions of protective HIV pre-exposure prophylaxis adherence levels in cisgender women",
+      "link": "https://www.nature.com/articles/s41591-023-02615-x",
+      "summary": "Modeling shows that antiretroviral treatment as pre-exposure prophylaxis (PrEP) can be highly effective in cisgender women at preventing HIV-1 acquisition, but underscores the need to understand the barriers that limit PrEP adherence in women.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Anxiety-focused cognitive behavioral therapy delivered by non-specialists to prevent postnatal depression: a randomized, phase 3 trial",
+      "link": "https://www.nature.com/articles/s41591-024-02809-x",
+      "summary": "In a phase 3 trial, an anxiety-focused cognitive behavioral therapy intervention delivered during pregnancy by non-specialist providers in Pakistan reduced the incidence of postnatal depression and anxiety compared to enhanced care.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "Anxiety-focused cognitive behavioral therapy delivered by non-specialists to prevent postnatal depression: a randomized, phase 3 trial",
+      "link": "https://www.nature.com/articles/s41591-024-02809-x",
+      "summary": "In a phase 3 trial, an anxiety-focused cognitive behavioral therapy intervention delivered during pregnancy by non-specialist providers in Pakistan reduced the incidence of postnatal depression and anxiety compared to enhanced care.",
+      "source": "https://www.nature.com/collections/ggahieiica"
+    },
+    {
+      "title": "AI tool reads immune signatures to detect disease",
+      "link": "https://www.nature.com/articles/d41591-025-00016-w",
+      "summary": "A machine learning framework — trained on B cell and T cell receptor sequences from thousands of people — can detect a range of infectious and autoimmune diseases.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "AI tool reads immune signatures to detect disease",
+      "link": "https://www.nature.com/articles/d41591-025-00016-w",
+      "summary": "A machine learning framework — trained on B cell and T cell receptor sequences from thousands of people — can detect a range of infectious and autoimmune diseases.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "AI tool reads immune signatures to detect disease",
+      "link": "https://www.nature.com/articles/d41591-025-00016-w",
+      "summary": "A machine learning framework — trained on B cell and T cell receptor sequences from thousands of people — can detect a range of infectious and autoimmune diseases.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "A bispecific antibody delivers new treatment for NRG1 fusion–positive cancers",
+      "link": "https://www.nature.com/articles/d41591-025-00015-x",
+      "summary": "In a phase 2 registrational trial, zenocutuzumab showed durable anti-tumor activity across a variety of NRG1 fusion-positive cancer types, providing a new treatment for patients with few alternative options.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "A bispecific antibody delivers new treatment for NRG1 fusion–positive cancers",
+      "link": "https://www.nature.com/articles/d41591-025-00015-x",
+      "summary": "In a phase 2 registrational trial, zenocutuzumab showed durable anti-tumor activity across a variety of NRG1 fusion-positive cancer types, providing a new treatment for patients with few alternative options.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Dual immunotherapy benefits certain patients with metastatic colorectal cancer",
+      "link": "https://www.nature.com/articles/d41591-025-00014-y",
+      "summary": "The phase 3 CheckMate 8HW trial shows superior outcomes with nivolumab plus ipilimumab (compared with nivolumab monotherapy) in patients with microsatellite instability-high or mismatch repair-deficient metastatic colorectal cancer.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Dual immunotherapy benefits certain patients with metastatic colorectal cancer",
+      "link": "https://www.nature.com/articles/d41591-025-00014-y",
+      "summary": "The phase 3 CheckMate 8HW trial shows superior outcomes with nivolumab plus ipilimumab (compared with nivolumab monotherapy) in patients with microsatellite instability-high or mismatch repair-deficient metastatic colorectal cancer.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Engineered heart muscle reinvigorates failing hearts",
+      "link": "https://www.nature.com/articles/d41591-025-00013-z",
+      "summary": "Heart muscle grafts engineered from induced pluripotent stem cells enhanced cardiac function in rhesus macaques with heart failure, while encouraging data from a single patient support ongoing clinical evaluation.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Engineered heart muscle reinvigorates failing hearts",
+      "link": "https://www.nature.com/articles/d41591-025-00013-z",
+      "summary": "Heart muscle grafts engineered from induced pluripotent stem cells enhanced cardiac function in rhesus macaques with heart failure, while encouraging data from a single patient support ongoing clinical evaluation.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Reversing the effects of industrialization on the gut microbiome",
+      "link": "https://www.nature.com/articles/d41591-025-00010-2",
+      "summary": "A diet ‘restoration’ strategy that mimics non-industrialized dietary habits showed beneficial effects on the gut microbiome that were predictive of cardiometabolic benefits.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Reversing the effects of industrialization on the gut microbiome",
+      "link": "https://www.nature.com/articles/d41591-025-00010-2",
+      "summary": "A diet ‘restoration’ strategy that mimics non-industrialized dietary habits showed beneficial effects on the gut microbiome that were predictive of cardiometabolic benefits.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Estimating the true number of traumatic deaths in Gaza",
+      "link": "https://www.nature.com/articles/d41591-025-00008-w",
+      "summary": "A method designed to account for data gaps and under-reporting estimates 64,260 deaths from traumatic injury — indicating that prior reports underestimated by 41%.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Estimating the true number of traumatic deaths in Gaza",
+      "link": "https://www.nature.com/articles/d41591-025-00008-w",
+      "summary": "A method designed to account for data gaps and under-reporting estimates 64,260 deaths from traumatic injury — indicating that prior reports underestimated by 41%.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Recognizing ultra-processed foods in grocery stores",
+      "link": "https://www.nature.com/articles/d41591-025-00007-x",
+      "summary": "GroceryDB uses machine learning to categorize the degree of processing of over 50,000 food items in US stores — and guides consumers toward healthier choices through accessible data.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Recognizing ultra-processed foods in grocery stores",
+      "link": "https://www.nature.com/articles/d41591-025-00007-x",
+      "summary": "GroceryDB uses machine learning to categorize the degree of processing of over 50,000 food items in US stores — and guides consumers toward healthier choices through accessible data.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Prenatal blood tests can reveal maternal cancer",
+      "link": "https://www.nature.com/articles/d41591-025-00006-y",
+      "summary": "A study detected hidden cancers in almost half of all pregnant people who were referred for cancer screening following an abnormal or unreportable prenatal blood test result.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Prenatal blood tests can reveal maternal cancer",
+      "link": "https://www.nature.com/articles/d41591-025-00006-y",
+      "summary": "A study detected hidden cancers in almost half of all pregnant people who were referred for cancer screening following an abnormal or unreportable prenatal blood test result.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Menstrual cycle linked to breast cancer chemotherapy response",
+      "link": "https://www.nature.com/articles/d41591-025-00004-0",
+      "summary": "According to preclinical studies and a retrospective clinical analysis, the menstrual cycle may influence the breast cancer response to neoadjuvant chemotherapy — suggesting that treatment could be timed for optimal outcomes.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Menstrual cycle linked to breast cancer chemotherapy response",
+      "link": "https://www.nature.com/articles/d41591-025-00004-0",
+      "summary": "According to preclinical studies and a retrospective clinical analysis, the menstrual cycle may influence the breast cancer response to neoadjuvant chemotherapy — suggesting that treatment could be timed for optimal outcomes.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Green cities for better health",
+      "link": "https://www.nature.com/articles/d41591-025-00001-3",
+      "summary": "Satellite data assessing residential greenness across Italy indicate that thousands of deaths could be prevented by greening residential areas.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Green cities for better health",
+      "link": "https://www.nature.com/articles/d41591-025-00001-3",
+      "summary": "Satellite data assessing residential greenness across Italy indicate that thousands of deaths could be prevented by greening residential areas.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Early readout shows promise of genomic newborn screening",
+      "link": "https://www.nature.com/articles/d41591-024-00082-6",
+      "summary": "Interim results from a large, ongoing study shows that genomic newborn screening identifies treatable conditions that would be missed by standard tests.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Early readout shows promise of genomic newborn screening",
+      "link": "https://www.nature.com/articles/d41591-024-00082-6",
+      "summary": "Interim results from a large, ongoing study shows that genomic newborn screening identifies treatable conditions that would be missed by standard tests.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Internet use linked to better mental health in older adults",
+      "link": "https://www.nature.com/articles/d41591-024-00081-7",
+      "summary": "According to a large international study, Internet use among adults 50 or more years of age correlates with reduced depressive symptoms, increased life satisfaction and improved self-reported health.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Internet use linked to better mental health in older adults",
+      "link": "https://www.nature.com/articles/d41591-024-00081-7",
+      "summary": "According to a large international study, Internet use among adults 50 or more years of age correlates with reduced depressive symptoms, increased life satisfaction and improved self-reported health.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Obesity predisposes to specific cancer driver mutations",
+      "link": "https://www.nature.com/articles/d41591-024-00080-8",
+      "summary": "A large-scale genomic analysis reveals associations between body mass index and certain driver mutations in various cancer types, particularly lung adenocarcinoma.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Obesity predisposes to specific cancer driver mutations",
+      "link": "https://www.nature.com/articles/d41591-024-00080-8",
+      "summary": "A large-scale genomic analysis reveals associations between body mass index and certain driver mutations in various cancer types, particularly lung adenocarcinoma.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Limiting babies’ sugar intake protects them against chronic diseases",
+      "link": "https://www.nature.com/articles/d41591-024-00079-1",
+      "summary": "Post-war rationing in the UK in 1953 facilitated a natural experiment that now reveals that restricting sugar intake in early life reduces the risk of diabetes and hypertension.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Limiting babies’ sugar intake protects them against chronic diseases",
+      "link": "https://www.nature.com/articles/d41591-024-00079-1",
+      "summary": "Post-war rationing in the UK in 1953 facilitated a natural experiment that now reveals that restricting sugar intake in early life reduces the risk of diabetes and hypertension.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "H5N1 from an infected dairy worker sheds light on viral transmission",
+      "link": "https://www.nature.com/articles/d41591-024-00078-2",
+      "summary": "Two studies reveal high transmissibility and lethality of the viral isolate in animal models, and hint at potential drug susceptibility — but further analysis and ongoing surveillance of infections will be critical for public health.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "H5N1 from an infected dairy worker sheds light on viral transmission",
+      "link": "https://www.nature.com/articles/d41591-024-00078-2",
+      "summary": "Two studies reveal high transmissibility and lethality of the viral isolate in animal models, and hint at potential drug susceptibility — but further analysis and ongoing surveillance of infections will be critical for public health.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Exploring the limits of life extension",
+      "link": "https://www.nature.com/articles/d41591-024-00076-4",
+      "summary": "The twentieth century saw unprecedented rises in life expectancy in high-income countries, but data suggest that this trend will not continue in the current century without radical interventions to slow biological aging.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Exploring the limits of life extension",
+      "link": "https://www.nature.com/articles/d41591-024-00076-4",
+      "summary": "The twentieth century saw unprecedented rises in life expectancy in high-income countries, but data suggest that this trend will not continue in the current century without radical interventions to slow biological aging.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Culturally adapted CBT for postnatal depression",
+      "link": "https://www.nature.com/articles/d41591-024-00077-3",
+      "summary": "In British South Asian women, a culturally adapted and community-informed cognitive behavioral therapy intervention led to higher early recovery rates than the usual treatment.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Culturally adapted CBT for postnatal depression",
+      "link": "https://www.nature.com/articles/d41591-024-00077-3",
+      "summary": "In British South Asian women, a culturally adapted and community-informed cognitive behavioral therapy intervention led to higher early recovery rates than the usual treatment.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Helicobacter pylori, gastric cancer and the screening conundrum",
+      "link": "https://www.nature.com/articles/d41591-024-00075-5",
+      "summary": "A large study failed to show a reduction in gastric cancer incidence or mortality when Helicobacter pylori screening was added to standard colon cancer screening.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Helicobacter pylori, gastric cancer and the screening conundrum",
+      "link": "https://www.nature.com/articles/d41591-024-00075-5",
+      "summary": "A large study failed to show a reduction in gastric cancer incidence or mortality when Helicobacter pylori screening was added to standard colon cancer screening.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Perioperative immunotherapy for bladder cancer",
+      "link": "https://www.nature.com/articles/d41591-024-00074-6",
+      "summary": "In the NIAGARA trial, the addition of perioperative durvalumab to standard treatment for muscle-invasive bladder cancer improved event-free and overall survival, marking a new treatment option for this condition.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Perioperative immunotherapy for bladder cancer",
+      "link": "https://www.nature.com/articles/d41591-024-00074-6",
+      "summary": "In the NIAGARA trial, the addition of perioperative durvalumab to standard treatment for muscle-invasive bladder cancer improved event-free and overall survival, marking a new treatment option for this condition.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "A chatbot changes the minds of conspiracy theorists",
+      "link": "https://www.nature.com/articles/d41591-024-00073-7",
+      "summary": "A study of over 2,000 people shows that interacting with a large language model reduced belief in conspiracy theories — including some related to COVID-19 — by providing tailored, one-on-one interactions and compelling evidence.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "A chatbot changes the minds of conspiracy theorists",
+      "link": "https://www.nature.com/articles/d41591-024-00073-7",
+      "summary": "A study of over 2,000 people shows that interacting with a large language model reduced belief in conspiracy theories — including some related to COVID-19 — by providing tailored, one-on-one interactions and compelling evidence.",
+      "source": "https://www.nature.com/nm/articles?type=research-highlight"
+    },
+    {
+      "title": "Featured",
+      "link": "https://www.nature.com/articles/d41586-025-00694-z",
+      "summary": "News | 06 March 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Trump's nominee for NIH chief talks frozen grants and fostering ‘scientific dissent’",
+      "link": "https://www.nature.com/articles/d41586-025-00694-z",
+      "summary": "News | 06 March 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Exclusive: NIH to terminate hundreds of active research grants",
+      "link": "https://www.nature.com/articles/d41586-025-00703-1",
+      "summary": "News | 06 March 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Vision: protecting and restoring a prized sense",
+      "link": "https://www.nature.com/articles/d41586-025-00653-8",
+      "summary": "Outlook | 05 March 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Human echolocation can be taught",
+      "link": "https://www.nature.com/articles/d41586-025-00657-4",
+      "summary": "Outlook | 05 March 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Artificial intelligence could boost eye care in low-income countries",
+      "link": "https://www.nature.com/articles/d41586-025-00658-3",
+      "summary": "Outlook | 05 March 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Why women’s brains are more resilient: it could be their ‘silent’ X chromosome",
+      "link": "https://www.nature.com/articles/d41586-025-00682-3",
+      "summary": "News | 05 March 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "How can treatment for eye disease be made easier?",
+      "link": "https://www.nature.com/articles/d41586-025-00655-6",
+      "summary": "Outlook | 05 March 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Restoring vision with optogenetics",
+      "link": "https://www.nature.com/articles/d41586-025-00656-5",
+      "summary": "Outlook | 05 March 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "The search for solutions to geographic atrophy of the retina",
+      "link": "https://www.nature.com/articles/d41586-025-00659-2",
+      "summary": "Outlook | 05 March 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Eye problems cloud NASA’s vision of Mars",
+      "link": "https://www.nature.com/articles/d41586-025-00654-7",
+      "summary": "Outlook | 05 March 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Designer cannabinoids could be the key to pain relief without adverse effects",
+      "link": "https://www.nature.com/articles/d41586-025-00546-w",
+      "summary": "News & Views | 05 March 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "How the brain decides when to stick at it, give up or try something new",
+      "link": "https://www.nature.com/articles/d41586-025-00631-0",
+      "summary": "Research Briefing | 05 March 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Diversity in neuronal activity could be caused by differences in inputs",
+      "link": "https://www.nature.com/articles/d41586-025-00634-x",
+      "summary": "Research Briefing | 05 March 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "This key protein could be responsible for brain ageing",
+      "link": "https://www.nature.com/articles/d41586-025-00689-w",
+      "summary": "News | 05 March 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "How the brain decides whether to persist — and when to give up",
+      "link": "https://www.nature.com/articles/d41586-025-00675-2",
+      "summary": "News | 05 March 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Fine-scale patterns of SARS-CoV-2 spread from identical pathogen sequences",
+      "link": "https://www.nature.com/articles/s41586-025-08637-4",
+      "summary": "Article\n05 March 2025 | Open Access",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Train clinical AI to reason like a team of doctors",
+      "link": "https://www.nature.com/articles/d41586-025-00618-x",
+      "summary": "Comment | 04 March 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Use your research to beat health inequities: four strategies from experts",
+      "link": "https://www.nature.com/articles/d41586-025-00619-w",
+      "summary": "Comment | 03 March 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "How academia’s ‘lone wolf’ culture is harming researcher mental health",
+      "link": "https://www.nature.com/articles/d41586-025-00603-4",
+      "summary": "Nature Careers Podcast | 28 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Automated loss of pulse detection on a consumer smartwatch",
+      "link": "https://www.nature.com/articles/s41586-025-08810-9",
+      "summary": "Article | 26 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "If your heart stops, this smartwatch-AI can call for help",
+      "link": "https://www.nature.com/articles/d41586-025-00601-6",
+      "summary": "Nature Podcast | 26 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "‘Slime’ keeps the brain safe ― and could guard against ageing",
+      "link": "https://www.nature.com/articles/d41586-025-00554-w",
+      "summary": "News | 26 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "How blowing the whistle on the Theranos scandal transformed Erika Cheung’s career",
+      "link": "https://www.nature.com/articles/d41586-025-00366-y",
+      "summary": "Career Feature | 26 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Nursing-home residents’ skin is a source of transmitted harmful and drug-resistant microbes",
+      "link": "https://www.nature.com/articles/d41586-025-00306-w",
+      "summary": "News & Views | 26 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "NIH turmoil sparks anxiety over future of its global grants",
+      "link": "https://www.nature.com/articles/d41586-025-00595-1",
+      "summary": "News | 26 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Mass-spectrometry-based proteomics: from single cells to clinical applications",
+      "link": "https://www.nature.com/articles/s41586-025-08584-0",
+      "summary": "Review Article | 26 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Glycocalyx dysregulation impairs blood–brain barrier in ageing and disease",
+      "link": "https://www.nature.com/articles/s41586-025-08589-9",
+      "summary": "Article\n26 February 2025 | Open Access",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Clonal Candida auris and ESKAPE pathogens on the skin of residents of nursing homes",
+      "link": "https://www.nature.com/articles/s41586-025-08608-9",
+      "summary": "Article | 26 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Rare disease gene association discovery in the 100,000 Genomes Project",
+      "link": "https://www.nature.com/articles/s41586-025-08623-w",
+      "summary": "Article\n26 February 2025 | Open Access",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "National climate policies must address mental health",
+      "link": "https://www.nature.com/articles/d41586-025-00587-1",
+      "summary": "Correspondence | 25 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "How quickly are you ageing? What molecular ‘clocks’ can tell you about your health",
+      "link": "https://www.nature.com/articles/d41586-025-00566-6",
+      "summary": "News Feature | 25 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Breast cancer is on the rise: data reveal drastic gap in survival rates",
+      "link": "https://www.nature.com/articles/d41586-025-00265-2",
+      "summary": "News | 24 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "The racial injustice laid bare by COVID must not be forgotten",
+      "link": "https://www.nature.com/articles/d41586-025-00458-9",
+      "summary": "Book Review | 24 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "How a junk-food splurge can change your brain activity",
+      "link": "https://www.nature.com/articles/d41586-025-00549-7",
+      "summary": "News | 21 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Putting early cancer detection to the test",
+      "link": "https://www.nature.com/articles/d41586-025-00530-4",
+      "summary": "Outlook | 21 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "How to bring health and happiness to your lab",
+      "link": "https://www.nature.com/articles/d41586-025-00538-w",
+      "summary": "Nature Careers Podcast | 21 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Cancer evolution could inform targets for personalized anticancer vaccines",
+      "link": "https://www.nature.com/articles/d41586-025-00467-8",
+      "summary": "Clinical Briefing | 21 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "What sparked the COVID pandemic? Mounting evidence points to raccoon dogs",
+      "link": "https://www.nature.com/articles/d41586-025-00426-3",
+      "summary": "News | 21 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "AI tool diagnoses diabetes, HIV and COVID from a blood sample",
+      "link": "https://www.nature.com/articles/d41586-025-00528-y",
+      "summary": "News | 20 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "How chronic stress warps decision-making",
+      "link": "https://www.nature.com/articles/d41586-025-00502-8",
+      "summary": "News | 19 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Bespoke vaccines can elicit long-lived immune activity against pancreatic cancer",
+      "link": "https://www.nature.com/articles/d41586-025-00470-z",
+      "summary": "Clinical Briefing | 19 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Peptides from abnormal RNA processing in cancer offer an immunotherapy target",
+      "link": "https://www.nature.com/articles/d41586-025-00302-0",
+      "summary": "News & Views | 19 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "What’s next for the World Health Organization? US exit could reshape agency",
+      "link": "https://www.nature.com/articles/d41586-025-00449-w",
+      "summary": "News Explainer | 19 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Artificial intelligence for modelling infectious disease epidemics",
+      "link": "https://www.nature.com/articles/s41586-024-08564-w",
+      "summary": "Perspective | 19 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Learn COVID pandemic lessons — before it’s too late",
+      "link": "https://www.nature.com/articles/d41586-025-00498-1",
+      "summary": "Editorial | 18 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Could psychedelics be fine-tuned to relieve anxiety but skip the ‘trip’?",
+      "link": "https://www.nature.com/articles/d41586-025-00454-z",
+      "summary": "News & Views | 18 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Migraine is more than a headache — a radical rethink offers hope to one billion people",
+      "link": "https://www.nature.com/articles/d41586-025-00456-x",
+      "summary": "News Feature | 18 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Pinpointing neurons that hinder cancer treatment",
+      "link": "https://www.nature.com/articles/d41586-025-00501-9",
+      "summary": "News & Views | 18 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Characterization of single neurons reprogrammed by pancreatic cancer",
+      "link": "https://www.nature.com/articles/s41586-025-08735-3",
+      "summary": "Article | 17 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Vaccine sceptic RFK Jr is now a powerful force in US science: what will he do?",
+      "link": "https://www.nature.com/articles/d41586-025-00439-y",
+      "summary": "News | 13 February 2025",
+      "source": "https://www.nature.com/subjects/health-sciences/nature"
+    },
+    {
+      "title": "Search",
+      "link": "https://news.un.org/en/news/topic/health#block-un-news-search-block-primary-content",
+      "summary": "No summary available",
+      "source": "https://news.un.org/en/news/topic/health"
+    },
+    {
+      "title": "Funding cuts jeopardise global fight against tuberculosis, WHO warns",
+      "link": "https://news.un.org/en/story/2025/03/1160826",
+      "summary": "Facebook Twitter",
+      "source": "https://news.un.org/en/news/topic/health"
+    },
+    {
+      "title": "‘Rapid expansion’ of synthetic drugs reshaping illicit markets, UN anti-narcotics body warns",
+      "link": "https://news.un.org/en/story/2025/03/1160741",
+      "summary": "Facebook Twitter",
+      "source": "https://news.un.org/en/news/topic/health"
+    },
+    {
+      "title": "DR Congo: WHO tracks deadly mysterious illness",
+      "link": "https://news.un.org/en/story/2025/02/1160596",
+      "summary": "Facebook Twitter",
+      "source": "https://news.un.org/en/news/topic/health"
+    },
+    {
+      "title": "New report flags severity of US funding cuts to global AIDS response",
+      "link": "https://news.un.org/en/story/2025/02/1160561",
+      "summary": "Facebook Twitter",
+      "source": "https://news.un.org/en/news/topic/health"
+    },
+    {
+      "title": "World News in Brief: Conflict in DR Congo, Europe’s ‘cradle to cane’ crisis, millions may go hungry in Chad",
+      "link": "https://news.un.org/en/story/2025/02/1160501",
+      "summary": "Facebook Twitter",
+      "source": "https://news.un.org/en/news/topic/health"
+    },
+    {
+      "title": "WHO marks 20 years of its lifesaving tobacco control treaty",
+      "link": "https://news.un.org/en/story/2025/02/1160481",
+      "summary": "Facebook Twitter",
+      "source": "https://news.un.org/en/news/topic/health"
+    },
+    {
+      "title": "Breast cancer cases projected to rise by nearly 40 per cent by 2050, WHO warns",
+      "link": "https://news.un.org/en/story/2025/02/1160391",
+      "summary": "Facebook Twitter",
+      "source": "https://news.un.org/en/news/topic/health"
+    },
+    {
+      "title": "New round of polio vaccinations begins in Gaza",
+      "link": "https://news.un.org/en/story/2025/02/1160411",
+      "summary": "Facebook Twitter",
+      "source": "https://news.un.org/en/news/topic/health"
+    },
+    {
+      "title": "Explainer: 5 common myths about child marriage",
+      "link": "https://news.un.org/en/story/2025/02/1160241",
+      "summary": "Facebook Twitter",
+      "source": "https://news.un.org/en/news/topic/health"
+    },
+    {
+      "title": "UN to continue Gaza vaccination campaign against polio",
+      "link": "https://news.un.org/en/story/2025/02/1160271",
+      "summary": "Facebook Twitter",
+      "source": "https://news.un.org/en/news/topic/health"
+    },
+    {
+      "title": "WHO looks back at 2024",
+      "link": "https://www.who.int/news-room/spotlight/who-looks-back-at-2024",
+      "summary": "No summary available",
+      "source": "https://www.who.int/news-room"
+    },
+    {
+      "title": "Search",
+      "link": "https://news.un.org/en/news/topic/women#block-un-news-search-block-primary-content",
+      "summary": "No summary available",
+      "source": "https://news.un.org/en/news/topic/women"
+    },
+    {
+      "title": "Sudan: Children as young as one raped during conflict, UNICEF warns",
+      "link": "https://news.un.org/en/story/2025/03/1160761",
+      "summary": "Facebook Twitter",
+      "source": "https://news.un.org/en/news/topic/women"
+    },
+    {
+      "title": "Greatest threat to UN Peacekeeping is divisions between nations, says UN Peace Operations Chief",
+      "link": "https://news.un.org/en/story/2025/02/1160536",
+      "summary": "Facebook Twitter",
+      "source": "https://news.un.org/en/news/topic/women"
+    },
+    {
+      "title": "Ukraine: Three years of war reverses progress for women and girls",
+      "link": "https://news.un.org/en/story/2025/02/1160291",
+      "summary": "Facebook Twitter",
+      "source": "https://news.un.org/en/news/topic/women"
+    },
+    {
+      "title": "UNICEF sounds alarm over child crisis in eastern DR Congo",
+      "link": "https://news.un.org/en/story/2025/02/1160101",
+      "summary": "Facebook Twitter",
+      "source": "https://news.un.org/en/news/topic/women"
+    },
+    {
+      "title": "Reaching for the stars: ‘We know the answers’ to support women in STEM",
+      "link": "https://news.un.org/en/story/2025/02/1160041",
+      "summary": "Facebook Twitter",
+      "source": "https://news.un.org/en/news/topic/women"
+    },
+    {
+      "title": "‘She had a syringe, razor blade, and bandages’: Surviving genital mutilation",
+      "link": "https://news.un.org/en/story/2025/02/1159886",
+      "summary": "Facebook Twitter",
+      "source": "https://news.un.org/en/news/topic/women"
+    },
+    {
+      "title": "‘Step Up the Pace’ and end female genital mutilation, UN says",
+      "link": "https://news.un.org/en/story/2025/02/1159876",
+      "summary": "Facebook Twitter",
+      "source": "https://news.un.org/en/news/topic/women"
+    },
+    {
+      "title": "‘The new generation is different’: In Djibouti, activists lobby to end female genital mutilation",
+      "link": "https://news.un.org/en/story/2025/02/1159786",
+      "summary": "Facebook Twitter",
+      "source": "https://news.un.org/en/news/topic/women"
+    },
+    {
+      "title": "World News in Brief: WHO chief asks US to reconsider withdrawal, gender parity remains distant goal, call for rethink on Nordic alcohol law change",
+      "link": "https://news.un.org/en/story/2025/02/1159711",
+      "summary": "Facebook Twitter",
+      "source": "https://news.un.org/en/news/topic/women"
+    },
+    {
+      "title": "US: UN rights expert welcomes court ruling reaffirming sex-based protections in education",
+      "link": "https://news.un.org/en/story/2025/01/1159011",
+      "summary": "Facebook Twitter",
+      "source": "https://news.un.org/en/news/topic/women"
+    }
+  ]
+  [
+    {
+      "title": "最新文章 最新文章 RSS feed",
+      “链接”：“https://www.annualreviews.org/rss/content/journals/soc/latestarticles?fmt=rss”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      “title”：“美国非法移民身份的影响：实证挑战和新前沿”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-soc-031021-012330”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      “title”：“美国非法移民身份的影响：实证挑战和新前沿”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-soc-031021-012330”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      “title”：“不平等民主的危险与希望：来自印度社会学的见解”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090324-022910”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      “title”：“不平等民主的危险与希望：来自印度社会学的见解”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090324-022910”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      "title": "移民政策对家庭的影响",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090324-020834”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      "title": "移民政策对家庭的影响",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090324-020834”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      "title": "社会学调查实验",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-soc-083024-070113”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      "title": "社会学调查实验",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-soc-083024-070113”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      “title”：“国际移民技能的社会建构：亚洲的视角”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090324-033254”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      “title”：“国际移民技能的社会建构：亚洲的视角”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090324-033254”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      "title": "中国的权利：神话、滥用和政治",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090523-050016”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      "title": "中国的权利：神话、滥用和政治",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090523-050016”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      “title”：“数字化将走向何方？过去和现在的口语、书面语和数字化之间的关系：从口头传统到数字媒体”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-soc-033022-035644”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      “title”：“数字化将走向何方？过去和现在的口语、书面语和数字化之间的关系：从口头传统到数字媒体”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-soc-033022-035644”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      “title”：“当今世界的美国：社会学家如何看待它及其重要性”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-soc-031021-040637”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      “title”：“当今世界的美国：社会学家如何看待它及其重要性”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-soc-031021-040637”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      “title”：“网上非法加密货币市场”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090523-052916”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      “title”：“网上非法加密货币市场”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090523-052916”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      “title”：“全球城市社会学的兴衰”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090523-042533”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      “title”：“全球城市社会学的兴衰”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090523-042533”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      “title”：“物以类聚：社交网络中的同质性”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.soc.27.1.415”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      “title”：“物以类聚：社交网络中的同质性”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.soc.27.1.415”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      “title”：“社会资本：其起源及其在现代社会学中的应用”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.soc.24.1.1”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      “title”：“社会资本：其起源及其在现代社会学中的应用”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.soc.24.1.1”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      “title”：“概念化耻辱”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.soc.27.1.363”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      “title”：“概念化耻辱”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.soc.27.1.363”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      “title”：“框架过程和社会运动：概述和评估”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.soc.26.1.611”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      “title”：“框架过程和社会运动：概述和评估”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.soc.26.1.611”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      "title": "组织学习",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.so.14.080188.001535”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      "title": "组织学习",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.so.14.080188.001535”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      "title": "社会科学的边界研究",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.soc.28.110601.141107”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      "title": "社会科学的边界研究",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.soc.28.110601.141107”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      "title": "评估“邻里效应”：社会过程和研究的新方向",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.soc.28.110601.141114”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      "title": "评估“邻里效应”：社会过程和研究的新方向",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.soc.28.110601.141114”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      "title": "社会交换理论",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.so.02.080176.002003”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      "title": "社会交换理论",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.so.02.080176.002003”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      "title": "焦点小组",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.soc.22.1.129”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      "title": "焦点小组",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.soc.22.1.129”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      "title": "文化与认知",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.soc.23.1.263”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      "title": "文化与认知",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.soc.23.1.263”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/soc”
+    }，
+    {
+      "title": "最新文章 最新文章 RSS feed",
+      “链接”：“https://www.annualreviews.org/rss/content/journals/publhealth/latestarticles?fmt=rss”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“打破数据公平障碍：数据分解在实现健康公平中的重要作用”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-072523-093838”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“打破数据公平障碍：数据分解在实现健康公平中的重要作用”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-072523-093838”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“概念化和衡量系统性种族主义”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-060222-032022”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“概念化和衡量系统性种族主义”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-060222-032022”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      "title": "健康保险对死亡率的影响",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-061022-042335”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      "title": "健康保险对死亡率的影响",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-061022-042335”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“美国预防自杀死亡的公共政策证据”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-071723-121359”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“美国预防自杀死亡的公共政策证据”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-071723-121359”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“应对肥胖症流行的下一步措施”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-060922-044108”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“应对肥胖症流行的下一步措施”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-060922-044108”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“以健康为导向的清洁空气和气候行动战略：大气成分对健康的不同影响”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-071723-015722”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“以健康为导向的清洁空气和气候行动战略：大气成分对健康的不同影响”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-071723-015722”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“评估政策对降低慢性病风险的影响：政策评级体系的科学与艺术”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-071723-113826”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“评估政策对降低慢性病风险的影响：政策评级体系的科学与艺术”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-071723-113826”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“减少危害：美国毒品政策中被忽视的支柱”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-071723-112620”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“减少危害：美国毒品政策中被忽视的支柱”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-071723-112620”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“环境因素导致的全球疾病负担”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-071823-105338”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“环境因素导致的全球疾病负担”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-071823-105338”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“公共卫生中表观遗传老化的量化”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-060222-015657”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“公共卫生中表观遗传老化的量化”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-060222-015657”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“社区研究回顾：评估合作方式以改善公共健康”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.publhealth.19.1.173”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“社区研究回顾：评估合作方式以改善公共健康”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.publhealth.19.1.173”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      "title": "自然与健康",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-032013-182443”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      "title": "自然与健康",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-032013-182443”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“跨文化抑郁症流行病学”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-031912-114409”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“跨文化抑郁症流行病学”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-031912-114409”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“美国公共卫生研究中的社会阶层测量：概念、方法和指南”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.publhealth.18.1.341”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“美国公共卫生研究中的社会阶层测量：概念、方法和指南”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.publhealth.18.1.341”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“种族主义与健康：证据和所需研究”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-040218-043750”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“种族主义与健康：证据和所需研究”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-040218-043750”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“健康的社会决定因素：成长”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-031210-101218”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“健康的社会决定因素：成长”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-031210-101218”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“颗粒物空气污染对呼吸系统的急性影响”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.pu.15.050194.000543”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“颗粒物空气污染对呼吸系统的急性影响”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.pu.15.050194.000543”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“行为科学理论在公共卫生干预措施的制定和实施中的作用”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.publhealth.012809.103604”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“行为科学理论在公共卫生干预措施的制定和实施中的作用”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.publhealth.012809.103604”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“中介分析：从业者指南”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-032315-021402”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“中介分析：从业者指南”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-032315-021402”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“处方阿片类药物和海洛因危机：应对成瘾流行病的公共卫生方法”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-031914-122957”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      “title”：“处方阿片类药物和海洛因危机：应对成瘾流行病的公共卫生方法”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-031914-122957”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/publhealth”
+    }，
+    {
+      "title": "最新文章 最新文章 RSS feed",
+      “链接”：“https://www.annualreviews.org/rss/content/journals/nutr/latestarticles?fmt=rss”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      "title": "数字时代针对儿童的不健康食品和饮料营销：全球研究和政策挑战与优先事项",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-062322-014102”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      "title": "数字时代针对儿童的不健康食品和饮料营销：全球研究和政策挑战与优先事项",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-062322-014102”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“营养声明和营养与健康声明对改善人口饮食的潜在效果”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-011224-054913”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“营养声明和营养与健康声明对改善人口饮食的潜在效果”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-011224-054913”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“包装正面的营养标签对改善人群饮食的潜在效果”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-011224-030917”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“包装正面的营养标签对改善人群饮食的潜在效果”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-011224-030917”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“含糖饮料与不良的人体健康后果：对观察性研究荟萃分析的综合回顾”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-062322-020650”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“含糖饮料与不良的人体健康后果：对观察性研究荟萃分析的综合回顾”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-062322-020650”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“针对肥胖的多层次干预：科学现状和未来方向”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-122123-020340”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“针对肥胖的多层次干预：科学现状和未来方向”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-122123-020340”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“蠕虫感染和糖尿病：风险改善机制”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-061121-100742”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“蠕虫感染和糖尿病：风险改善机制”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-061121-100742”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“母亲的饮食会影响未来婴儿的味觉和气味偏好吗？一项批判性分析”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-121222-101404”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“母亲的饮食会影响未来婴儿的味觉和气味偏好吗？一项批判性分析”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-121222-101404”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“减肥手术后的营养挑战和治疗”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-061121-101547”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“减肥手术后的营养挑战和治疗”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-061121-101547”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“解码食物组：连接饮食和健康的分子网络”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-062322-030557”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“解码食物组：连接饮食和健康的分子网络”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-062322-030557”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“当代围手术期营养护理”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-062222-021228”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“当代围手术期营养护理”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev-nutr-062222-021228”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“膳食类黄酮：生物利用度、代谢作用和安全性”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.22.111401.144957”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“膳食类黄酮：生物利用度、代谢作用和安全性”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.22.111401.144957”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“宿主-微生物相互作用如何塑造哺乳动物肠道的营养环境”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.22.011602.092259”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“宿主-微生物相互作用如何塑造哺乳动物肠道的营养环境”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.22.011602.092259”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“抗氧化剂与人类健康和疾病”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.nu.16.070196.000341”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“抗氧化剂与人类健康和疾病”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.nu.16.070196.000341”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      "title": "食物偏好的发展",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.19.1.41”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      "title": "食物偏好的发展",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.19.1.41”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      "title": "成功维持减肥效果",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.21.1.323”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      "title": "成功维持减肥效果",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.21.1.323”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“同型半胱氨酸代谢”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.19.1.217”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“同型半胱氨酸代谢”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.19.1.217”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“饥饿状态下的燃料代谢”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.26.061505.111258”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“饥饿状态下的燃料代谢”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.26.061505.111258”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“食用多酚化合物对致癌性的抑制”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.21.1.381”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“食用多酚化合物对致癌性的抑制”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.21.1.381”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“支链氨基酸代谢”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.nu.04.070184.002205”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“支链氨基酸代谢”，
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.nu.04.070184.002205”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      "title": "Δ6、Δ5 和 Δ9 去饱和酶的结构、功能和饮食调节",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.24.121803.063211”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      "title": "Δ6、Δ5 和 Δ9 去饱和酶的结构、功能和饮食调节",
+      “链接”：“https://www.annualreviews.org/content/journals/10.1146/annurev.nutr.24.121803.063211”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.annualreviews.org/content/journals/nutr”
+    }，
+    {
+      “title”：“女性健康的生命历程方法”，
+      “链接”：“https://www.nature.com/articles/s41591-023-02777-8”，
+      “summary”：“我们正在推出一个新的系列，作为讨论如何改善妇女和女童健康的起点，作为实现全球健康公平的一部分。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“女性健康的生命历程方法”，
+      “链接”：“https://www.nature.com/articles/s41591-023-02777-8”，
+      “summary”：“我们正在推出一个新的系列，作为讨论如何改善妇女和女童健康的起点，作为实现全球健康公平的一部分。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“女性健康的生命历程方法”，
+      “链接”：“https://www.nature.com/articles/s41591-023-02777-8”，
+      “summary”：“我们正在推出一个新的系列，作为讨论如何改善妇女和女童健康的起点，作为实现全球健康公平的一部分。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“远程医疗可以在不断变化的健康和法律环境下实现安全的药物流产”，
+      “链接”：“https://www.nature.com/articles/s41591-024-02876-0”，
+      “summary”：“远程医疗提供的药物流产是安全有效的，但在美国，确保公平获得药物流产是一项挑战，而即将开庭的最高法院案件进一步加剧了这一挑战。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“远程医疗可以在不断变化的健康和法律环境下实现安全的药物流产”，
+      “链接”：“https://www.nature.com/articles/s41591-024-02876-0”，
+      “summary”：“远程医疗提供的药物流产是安全有效的，但在美国，确保公平获得药物流产是一项挑战，而即将开庭的最高法院案件进一步加剧了这一挑战。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“远程医疗可以在不断变化的健康和法律环境下实现安全的药物流产”，
+      “链接”：“https://www.nature.com/articles/s41591-024-02876-0”，
+      “summary”：“远程医疗提供的药物流产是安全有效的，但在美国，确保公平获得药物流产是一项挑战，而即将开庭的最高法院案件进一步加剧了这一挑战。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“数十年资金不足后子宫内膜异位症研究的激增可能预示着女性健康新时代的到来”，
+      “链接”：“https://www.nature.com/articles/s41591-024-02795-0”，
+      “summary”：“类器官的进展以及微生物组和饮食的作用正在带来子宫内膜异位症的新诊断和治疗方法，从而激发对这种长期被忽视的疾病采取精准的健康方法。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“数十年资金不足后子宫内膜异位症研究的激增可能预示着女性健康新时代的到来”，
+      “链接”：“https://www.nature.com/articles/s41591-024-02795-0”，
+      “summary”：“类器官的进展以及微生物组和饮食的作用正在带来子宫内膜异位症的新诊断和治疗方法，从而激发对这种长期被忽视的疾病采取精准的健康方法。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      "title": "提供高质量的分娩护理",
+      “链接”：“https://www.nature.com/articles/s41591-024-02812-2”，
+      “摘要”：“世卫组织分娩护理指南的试点试验揭示了实施和未来试验的重要考虑因素，旨在减少剖宫产的不当使用，特别是在中低收入国家。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      "title": "提供高质量的分娩护理",
+      “链接”：“https://www.nature.com/articles/s41591-024-02812-2”，
+      “摘要”：“世卫组织分娩护理指南的试点试验揭示了实施和未来试验的重要考虑因素，旨在减少剖宫产的不当使用，特别是在中低收入国家。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      "title": "实施全球消除宫颈癌计划",
+      “链接”：“https://www.nature.com/articles/s41591-023-02577-0”，
+      “summary”：“有证据支持使用初级 HPV 检测来加速全球消除宫颈癌，但必须在低收入和中低收入国家脆弱的医疗保健系统和复杂的实施挑战的背景下看待此类建议。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      "title": "实施全球消除宫颈癌计划",
+      “链接”：“https://www.nature.com/articles/s41591-023-02577-0”，
+      “summary”：“有证据支持使用初级 HPV 检测来加速全球消除宫颈癌，但必须在低收入和中低收入国家脆弱的医疗保健系统和复杂的实施挑战的背景下看待此类建议。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      "title": "除了伤痕：暴力对女性健康的终生影响",
+      “链接”：“https://www.nature.com/articles/s41591-023-02654-4”，
+      “summary”：“针对妇女的暴力行为造成的严重健康后果为全球预防、发现和干预举措提供了有力依据。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      "title": "除了伤痕：暴力对女性健康的终生影响",
+      “链接”：“https://www.nature.com/articles/s41591-023-02654-4”，
+      “summary”：“针对妇女的暴力行为造成的严重健康后果为全球预防、发现和干预举措提供了有力依据。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“以人为本的顺性别女性 HIV 预防”，
+      “链接”：“https://www.nature.com/articles/s41591-023-02618-8”，
+      “摘要”：“两项建模研究提供了令人信服的证据，表明即使不完美地遵守艾滋病毒暴露前预防措施，仍然可以为顺性别女性提供合理的保护——为以人为本的方法和更低的停药率提供了乐观的预期。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“以人为本的顺性别女性 HIV 预防”，
+      “链接”：“https://www.nature.com/articles/s41591-023-02618-8”，
+      “摘要”：“两项建模研究提供了令人信服的证据，表明即使不完美地遵守艾滋病毒暴露前预防措施，仍然可以为顺性别女性提供合理的保护——为以人为本的方法和更低的停药率提供了乐观的预期。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“扩大围产期心理健康干预的覆盖面和可扩展性”，
+      “链接”：“https://www.nature.com/articles/s41591-024-02825-x”，
+      “摘要”：“一项新研究显示了治疗焦虑症对预防产后抑郁症的益处，并强调需要进行更务实的研究来简化治疗方案，解决其他合并症状，并大规模提供有效的围产期心理健康护理。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“扩大围产期心理健康干预的覆盖面和可扩展性”，
+      “链接”：“https://www.nature.com/articles/s41591-024-02825-x”，
+      “摘要”：“一项新研究显示了治疗焦虑症对预防产后抑郁症的益处，并强调需要进行更务实的研究来简化治疗方案，解决其他合并症状，并大规模提供有效的围产期心理健康护理。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“美国的生育权利：默许不是一种策略”，
+      “链接”：“https://www.nature.com/articles/s41591-024-02921-y”，
+      “摘要”：“科学和医学会议不应在禁止堕胎的国家举行，因为这种禁令会危及妇女的生命。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“美国的生育权利：默许不是一种策略”，
+      “链接”：“https://www.nature.com/articles/s41591-024-02921-y”，
+      “摘要”：“科学和医学会议不应在禁止堕胎的国家举行，因为这种禁令会危及妇女的生命。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      "title": "促进科学和卫生队伍中的性别平等对于改善妇女健康至关重要",
+      “链接”：“https://www.nature.com/articles/s41591-024-02872-4”，
+      “summary”：“通过增加女性在科学、医学和公共卫生领域的领导地位，可以改善女性的健康状况。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      "title": "促进科学和卫生队伍中的性别平等对于改善妇女健康至关重要",
+      “链接”：“https://www.nature.com/articles/s41591-024-02872-4”，
+      “summary”：“通过增加女性在科学、医学和公共卫生领域的领导地位，可以改善女性的健康状况。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“2024 年，女性健康问题将列入选举议题”，
+      “链接”：“https://www.nature.com/articles/s41591-024-03116-1”，
+      “summary”：“政治影响妇女的健康，从堕胎权到卫生系统的资金，选民应该据此选择政治家。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“2024 年，女性健康问题将列入选举议题”，
+      “链接”：“https://www.nature.com/articles/s41591-024-03116-1”，
+      “summary”：“政治影响妇女的健康，从堕胎权到卫生系统的资金，选民应该据此选择政治家。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“公民科学作为妇女健康研究的工具”，
+      “链接”：“https://www.nature.com/articles/s41591-024-03371-2”，
+      “摘要”：“公民科学方法可以帮助挑战围绕私密健康话题的禁忌，扩大代表性不足的声音，并优先考虑女性参与健康研究；这一观点考虑了成功的关键挑战和因素。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“公民科学作为妇女健康研究的工具”，
+      “链接”：“https://www.nature.com/articles/s41591-024-03371-2”，
+      “摘要”：“公民科学方法可以帮助挑战围绕私密健康话题的禁忌，扩大代表性不足的声音，并优先考虑女性参与健康研究；这一观点考虑了成功的关键挑战和因素。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“公民科学作为妇女健康研究的工具”，
+      “链接”：“https://www.nature.com/articles/s41591-024-03371-2”，
+      “摘要”：“公民科学方法可以帮助挑战围绕私密健康话题的禁忌，扩大代表性不足的声音，并优先考虑女性参与健康研究；这一观点考虑了成功的关键挑战和因素。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“二十一世纪妇女的健康和权利”，
+      “链接”：“https://www.nature.com/articles/s41591-024-03036-0”，
+      “summary”：“本评论探讨了技术进步和全球危机背景下妇女性健康和生殖健康与权利之间的相互关系，并提出了一系列可行的优先事项来推进这一事业。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“二十一世纪妇女的健康和权利”，
+      “链接”：“https://www.nature.com/articles/s41591-024-03036-0”，
+      “summary”：“本评论探讨了技术进步和全球危机背景下妇女性健康和生殖健康与权利之间的相互关系，并提出了一系列可行的优先事项来推进这一事业。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“女性健康和福祉的自我护理干预”，
+      “链接”：“https://www.nature.com/articles/s41591-024-02844-8”，
+      “摘要”：“自我护理干预有可能改善女性的健康覆盖范围，同时提供更大的自主权和自主权，但只有能够克服某些障碍（例如耻辱和成本）才能实现。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“女性健康和福祉的自我护理干预”，
+      “链接”：“https://www.nature.com/articles/s41591-024-02844-8”，
+      “摘要”：“自我护理干预有可能改善女性的健康覆盖范围，同时提供更大的自主权和自主权，但只有能够克服某些障碍（例如耻辱和成本）才能实现。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“通过生命全程方法应对女性非传染性疾病”，
+      “链接”：“https://www.nature.com/articles/s41591-023-02738-1”，
+      “summary”：“女性在非传染性疾病方面的独特风险和需求为干预和预防疾病提供了无数机会，但必须解决实施过程中的几个关键障碍。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“通过生命全程方法应对女性非传染性疾病”，
+      “链接”：“https://www.nature.com/articles/s41591-023-02738-1”，
+      “summary”：“女性在非传染性疾病方面的独特风险和需求为干预和预防疾病提供了无数机会，但必须解决实施过程中的几个关键障碍。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“美国远程医疗药物流产的有效性和安全性”，
+      “链接”：“https://www.nature.com/articles/s41591-024-02834-w”，
+      “summary”：“在堕胎仍然合法的美国各州进行的一项前瞻性研究中，远程医疗药物堕胎（主要无需检查）是有效、安全的，并且与之前美国大型面对面药物堕胎护理研究的结果相当。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“美国远程医疗药物流产的有效性和安全性”，
+      “链接”：“https://www.nature.com/articles/s41591-024-02834-w”，
+      “summary”：“在堕胎仍然合法的美国各州进行的一项前瞻性研究中，远程医疗药物堕胎（主要无需检查）是有效、安全的，并且与之前美国大型面对面药物堕胎护理研究的结果相当。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“美国远程医疗药物流产的有效性和安全性”，
+      “链接”：“https://www.nature.com/articles/s41591-024-02834-w”，
+      “summary”：“在堕胎仍然合法的美国各州进行的一项前瞻性研究中，远程医疗药物堕胎（主要无需检查）是有效、安全的，并且与之前美国大型面对面药物堕胎护理研究的结果相当。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      "title": "中国预防乙肝母婴传播多层次干预项目的实际实施情况",
+      “链接”：“https://www.nature.com/articles/s41591-023-02782-x”，
+      "summary": "SHIELD 项目采用多层次干预措施，中期分析显示，中国不同医院和社区环境中的乙肝病毒 (HBV) 母婴传播 (MTCT) 率较低。",
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      "title": "中国预防乙肝母婴传播多层次干预项目的实际实施情况",
+      “链接”：“https://www.nature.com/articles/s41591-023-02782-x”，
+      "summary": "SHIELD 项目采用多层次干预措施，中期分析显示，中国不同医院和社区环境中的乙肝病毒 (HBV) 母婴传播 (MTCT) 率较低。",
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“世卫组织分娩护理指南对印度剖宫产的影响：一项实用的、分阶式、集群随机试点试验”，
+      “链接”：“https://www.nature.com/articles/s41591-023-02751-4”，
+      “summary”：“为了评估实施世卫组织分娩护理指南对剖宫产率的影响，与常规分娩护理相比，在印度进行的一项试点试验产生了有关该策略有效性的初步证据，可以为更大规模的确定性试验提供参考。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“世卫组织分娩护理指南对印度剖宫产的影响：一项实用的、分阶式、集群随机试点试验”，
+      “链接”：“https://www.nature.com/articles/s41591-023-02751-4”，
+      “summary”：“为了评估实施世卫组织分娩护理指南对剖宫产率的影响，与常规分娩护理相比，在印度进行的一项试点试验产生了有关该策略有效性的初步证据，可以为更大规模的确定性试验提供参考。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      "title": "宫颈筛查、分类和治疗策略对普通人群女性的益处、危害和成本效益",
+      “链接”：“https://www.nature.com/articles/s41591-023-02600-4”，
+      “summary”：“对 78 个低收入和中低收入国家预防宫颈癌的筛查和治疗策略的模型评估为世界卫生组织对普通人群中女性进行初级 HPV 检测的建议提供了证据。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      "title": "宫颈筛查、分类和治疗策略对普通人群女性的益处、危害和成本效益",
+      “链接”：“https://www.nature.com/articles/s41591-023-02600-4”，
+      “summary”：“对 78 个低收入和中低收入国家预防宫颈癌的筛查和治疗策略的模型评估为世界卫生组织对普通人群中女性进行初级 HPV 检测的建议提供了证据。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      "title": "宫颈筛查、分类和治疗策略对艾滋病毒感染妇女的益处和危害",
+      “链接”：“https://www.nature.com/articles/s41591-023-02601-3”，
+      “summary”：“一个评估坦桑尼亚艾滋病毒感染女性宫颈癌筛查、分类和治疗策略的模型提供了证据，支持世界卫生组织的建议，即从 25 岁开始进行初级 HPV 检测，每 3-5 年进行一次定期筛查。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      "title": "宫颈筛查、分类和治疗策略对艾滋病毒感染妇女的益处和危害",
+      “链接”：“https://www.nature.com/articles/s41591-023-02601-3”，
+      “summary”：“一个评估坦桑尼亚艾滋病毒感染女性宫颈癌筛查、分类和治疗策略的模型提供了证据，支持世界卫生组织的建议，即从 25 岁开始进行初级 HPV 检测，每 3-5 年进行一次定期筛查。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“肯尼亚年轻女性单剂量 HPV 疫苗接种的持久性：随机对照试验 3 年结果”，
+      “链接”：“https://www.nature.com/articles/s41591-023-02658-0”，
+      “summary”：“在对 KEN SHE 试验进行预先指定的 3 年分析中，单剂量 HPV 疫苗接种被证明具有良好的耐受性，并为 15-20 岁的肯尼亚女性提供了针对宫颈 HPV 感染的持久保护。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“肯尼亚年轻女性单剂量 HPV 疫苗接种的持久性：随机对照试验 3 年结果”，
+      “链接”：“https://www.nature.com/articles/s41591-023-02658-0”，
+      “summary”：“在对 KEN SHE 试验进行预先指定的 3 年分析中，单剂量 HPV 疫苗接种被证明具有良好的耐受性，并为 15-20 岁的肯尼亚女性提供了针对宫颈 HPV 感染的持久保护。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“女性遭受亲密伴侣暴力和儿童期性虐待对健康的影响：举证责任研究”，
+      “链接”：“https://www.nature.com/articles/s41591-023-02629-5”，
+      “summary”：“使用举证责任风险函数的荟萃分析确定了一致的证据，支持亲密伴侣暴力侵害妇女行为与儿童期性虐待对健康结果存在有害关联。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“女性遭受亲密伴侣暴力和儿童期性虐待对健康的影响：举证责任研究”，
+      “链接”：“https://www.nature.com/articles/s41591-023-02629-5”，
+      “summary”：“使用举证责任风险函数的荟萃分析确定了一致的证据，支持亲密伴侣暴力侵害妇女行为与儿童期性虐待对健康结果存在有害关联。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“对部分依从的顺性别女性进行口服暴露前预防艾滋病毒的疗效估计”，
+      “链接”：“https://www.nature.com/articles/s41591-023-02564-5”，
+      “summary”：“每日服用抗逆转录病毒药物进行暴露前预防 (PrEP) 以预防人类免疫缺陷病毒 1 型感染，尚未证明对顺性别女性始终有效。对每日 PrEP 的依从性进行建模可以阐明如何实现强有力的保护。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“对部分依从的顺性别女性进行口服暴露前预防艾滋病毒的疗效估计”，
+      “链接”：“https://www.nature.com/articles/s41591-023-02564-5”，
+      “summary”：“每日服用抗逆转录病毒药物进行暴露前预防 (PrEP) 以预防人类免疫缺陷病毒 1 型感染，尚未证明对顺性别女性始终有效。对每日 PrEP 的依从性进行建模可以阐明如何实现强有力的保护。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“基于模型预测顺性别女性艾滋病毒暴露前预防治疗依从性水平”，
+      “链接”：“https://www.nature.com/articles/s41591-023-02615-x”，
+      “摘要”：“模型显示，抗逆转录病毒治疗作为暴露前预防 (PrEP) 对顺性别女性预防 HIV-1 感染非常有效，但强调需要了解限制女性坚持 PrEP 的障碍。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“基于模型预测顺性别女性艾滋病毒暴露前预防治疗依从性水平”，
+      “链接”：“https://www.nature.com/articles/s41591-023-02615-x”，
+      “摘要”：“模型显示，抗逆转录病毒治疗作为暴露前预防 (PrEP) 对顺性别女性预防 HIV-1 感染非常有效，但强调需要了解限制女性坚持 PrEP 的障碍。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“非专家提供的以焦虑为重点的认知行为疗法预防产后抑郁症：一项随机 3 期试验”，
+      “链接”：“https://www.nature.com/articles/s41591-024-02809-x”，
+      “summary”：“在一项 3 期试验中，巴基斯坦非专业医疗服务提供者在怀孕期间提供的以焦虑为重点的认知行为疗法干预与强化护理相比，降低了产后抑郁和焦虑的发病率。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“非专家提供的以焦虑为重点的认知行为疗法预防产后抑郁症：一项随机 3 期试验”，
+      “链接”：“https://www.nature.com/articles/s41591-024-02809-x”，
+      “summary”：“在一项 3 期试验中，巴基斯坦非专业医疗服务提供者在怀孕期间提供的以焦虑为重点的认知行为疗法干预与强化护理相比，降低了产后抑郁和焦虑的发病率。”，
+      “来源”：“https://www.nature.com/collections/ggahieiica”
+    }，
+    {
+      “title”：“人工智能工具读取免疫特征来检测疾病”，
+      “链接”：“https://www.nature.com/articles/d41591-025-00016-w”，
+      “summary”：“一个机器学习框架——经过数千人的 B 细胞和 T 细胞受体序列的训练——可以检测一系列传染病和自身免疫性疾病。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“人工智能工具读取免疫特征来检测疾病”，
+      “链接”：“https://www.nature.com/articles/d41591-025-00016-w”，
+      “summary”：“一个机器学习框架——经过数千人的 B 细胞和 T 细胞受体序列的训练——可以检测一系列传染病和自身免疫性疾病。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“人工智能工具读取免疫特征来检测疾病”，
+      “链接”：“https://www.nature.com/articles/d41591-025-00016-w”，
+      “summary”：“一个机器学习框架——经过数千人的 B 细胞和 T 细胞受体序列的训练——可以检测一系列传染病和自身免疫性疾病。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“双特异性抗体为 NRG1 融合阳性癌症提供新治疗方法”，
+      “链接”：“https://www.nature.com/articles/d41591-025-00015-x”，
+      “summary”：“在第 2 阶段注册试验中，zenocutuzumab 对多种 NRG1 融合阳性癌症类型表现出持久的抗肿瘤活性，为几乎没有其他选择的患者提供了一种新的治疗方法。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“双特异性抗体为 NRG1 融合阳性癌症提供新治疗方法”，
+      “链接”：“https://www.nature.com/articles/d41591-025-00015-x”，
+      “summary”：“在第 2 阶段注册试验中，zenocutuzumab 对多种 NRG1 融合阳性癌症类型表现出持久的抗肿瘤活性，为几乎没有其他选择的患者提供了一种新的治疗方法。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“双重免疫疗法使某些转移性结直肠癌患者受益”，
+      “链接”：“https://www.nature.com/articles/d41591-025-00014-y”，
+      “summary”：“3 期 CheckMate 8HW 试验表明，对于微卫星不稳定性高或错配修复缺陷的转​​移性结直肠癌患者，使用 nivolumab 加 ipilimumab（与 nivolumab 单药治疗相比）可获得更优的疗效。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“双重免疫疗法使某些转移性结直肠癌患者受益”，
+      “链接”：“https://www.nature.com/articles/d41591-025-00014-y”，
+      “summary”：“3 期 CheckMate 8HW 试验表明，对于微卫星不稳定性高或错配修复缺陷的转​​移性结直肠癌患者，使用 nivolumab 加 ipilimumab（与 nivolumab 单药治疗相比）可获得更优的疗效。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“工程心肌使衰竭的心脏重新焕发活力”，
+      “链接”：“https://www.nature.com/articles/d41591-025-00013-z”，
+      “summary”：“由诱导性多能干细胞设计的心肌移植物增强了患有心力衰竭的恒河猴的心脏功能，同时来自单个患者的令人鼓舞的数据支持正在进行的临床评估。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“工程心肌使衰竭的心脏重新焕发活力”，
+      “链接”：“https://www.nature.com/articles/d41591-025-00013-z”，
+      “summary”：“由诱导性多能干细胞设计的心肌移植物增强了患有心力衰竭的恒河猴的心脏功能，同时来自单个患者的令人鼓舞的数据支持正在进行的临床评估。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“扭转工业化对肠道微生物群的影响”，
+      “链接”：“https://www.nature.com/articles/d41591-025-00010-2”，
+      “摘要”：“模仿非工业化饮食习惯的饮食‘恢复’策略对肠道微生物群显示出有益的影响，可以预测心脏代谢益处。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“扭转工业化对肠道微生物群的影响”，
+      “链接”：“https://www.nature.com/articles/d41591-025-00010-2”，
+      “摘要”：“模仿非工业化饮食习惯的饮食‘恢复’策略对肠道微生物群显示出有益的影响，可以预测心脏代谢益处。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“估计加沙真实的创伤死亡人数”，
+      “链接”：“https://www.nature.com/articles/d41591-025-00008-w”，
+      “summary”：“一种旨在解释数据缺口和漏报估计数的方法，估计因创伤而死亡的人数为 64,260 人——表明之前的报告低估了 41%。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“估计加沙真实的创伤死亡人数”，
+      “链接”：“https://www.nature.com/articles/d41591-025-00008-w”，
+      “summary”：“一种旨在解释数据缺口和漏报估计数的方法，估计因创伤而死亡的人数为 64,260 人——表明之前的报告低估了 41%。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      "title": "识别杂货店里的超加工食品",
+      “链接”：“https://www.nature.com/articles/d41591-025-00007-x”，
+      “summary”：“GroceryDB 使用机器学习对美国商店中超过 50,000 种食品的加工程度进行分类，并通过可访问的数据引导消费者做出更健康的选择。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      "title": "识别杂货店里的超加工食品",
+      “链接”：“https://www.nature.com/articles/d41591-025-00007-x”，
+      “summary”：“GroceryDB 使用机器学习对美国商店中超过 50,000 种食品的加工程度进行分类，并通过可访问的数据引导消费者做出更健康的选择。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“产前血液检查可以揭示孕妇癌症”，
+      “链接”：“https://www.nature.com/articles/d41591-025-00006-y”，
+      “summary”：“一项研究发现，在产前血液检查结果异常或无法报告后被转介进行癌症筛查的所有孕妇中，几乎有一半患有隐藏的癌症。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“产前血液检查可以揭示孕妇癌症”，
+      “链接”：“https://www.nature.com/articles/d41591-025-00006-y”，
+      “summary”：“一项研究发现，在产前血液检查结果异常或无法报告后被转介进行癌症筛查的所有孕妇中，几乎有一半患有隐藏的癌症。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“月经周期与乳腺癌化疗反应相关”，
+      “链接”：“https://www.nature.com/articles/d41591-025-00004-0”，
+      “摘要”：“根据临床前研究和回顾性临床分析，月经周期可能会影响乳腺癌对新辅助化疗的反应——这表明治疗可以按时进行，以获得最佳结果。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“月经周期与乳腺癌化疗反应相关”，
+      “链接”：“https://www.nature.com/articles/d41591-025-00004-0”，
+      “摘要”：“根据临床前研究和回顾性临床分析，月经周期可能会影响乳腺癌对新辅助化疗的反应——这表明治疗可以按时进行，以获得最佳结果。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      "title": "绿色城市，更健康",
+      “链接”：“https://www.nature.com/articles/d41591-025-00001-3”，
+      “summary”：“评估意大利各地居住区绿化的卫星数据表明，通过绿化居住区可以避免数千人死亡。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      "title": "绿色城市，更健康",
+      “链接”：“https://www.nature.com/articles/d41591-025-00001-3”，
+      “summary”：“评估意大利各地居住区绿化的卫星数据表明，通过绿化居住区可以避免数千人死亡。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“早期读数显示新生儿基因组筛查前景光明”，
+      “链接”：“https://www.nature.com/articles/d41591-024-00082-6”，
+      “summary”：“一项正在进行的大型研究的中期结果表明，新生儿基因组筛查可以发现标准检测可能遗漏的可治疗疾病。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“早期读数显示新生儿基因组筛查前景光明”，
+      “链接”：“https://www.nature.com/articles/d41591-024-00082-6”，
+      “summary”：“一项正在进行的大型研究的中期结果表明，新生儿基因组筛查可以发现标准检测可能遗漏的可治疗疾病。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      "title": "互联网使用与老年人心理健康改善有关",
+      “链接”：“https://www.nature.com/articles/d41591-024-00081-7”，
+      “summary”：“根据一项大型国际研究，50 岁或以上的成年人使用互联网与抑郁症状减少、生活满意度提高和自我报告健康状况改善相关。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      "title": "互联网使用与老年人心理健康改善有关",
+      “链接”：“https://www.nature.com/articles/d41591-024-00081-7”，
+      “summary”：“根据一项大型国际研究，50 岁或以上的成年人使用互联网与抑郁症状减少、生活满意度提高和自我报告健康状况改善相关。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“肥胖导致特定癌症驱动突变”，
+      “链接”：“https://www.nature.com/articles/d41591-024-00080-8”，
+      “摘要”：“大规模基因组分析揭示了体重指数与各种癌症类型（特别是肺腺癌）的某些驱动突变之间的关联。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“肥胖导致特定癌症驱动突变”，
+      “链接”：“https://www.nature.com/articles/d41591-024-00080-8”，
+      “摘要”：“大规模基因组分析揭示了体重指数与各种癌症类型（特别是肺腺癌）的某些驱动突变之间的关联。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      "title": "限制婴儿的糖摄入量可保护他们免受慢性疾病的侵害",
+      “链接”：“https://www.nature.com/articles/d41591-024-00079-1”，
+      “摘要”：“1953 年英国战后的配给制促成了一项自然实验，该实验表明，限制早期糖的摄入量可降低患糖尿病和高血压的风险。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      "title": "限制婴儿的糖摄入量可保护他们免受慢性疾病的侵害",
+      “链接”：“https://www.nature.com/articles/d41591-024-00079-1”，
+      “摘要”：“1953 年英国战后的配给制促成了一项自然实验，该实验表明，限制早期糖的摄入量可降低患糖尿病和高血压的风险。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      "title": "一名受感染的奶牛场工人的 H5N1 病毒揭示了病毒的传播",
+      “链接”：“https://www.nature.com/articles/d41591-024-00078-2”，
+      “摘要”：“两项研究表明，病毒分离株在动物模型中具有很高的传染性和致死率，并暗示了潜在的药物敏感性——但进一步分析和持续监测感染对于公共健康至关重要。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      "title": "一名受感染的奶牛场工人的 H5N1 病毒揭示了病毒的传播",
+      “链接”：“https://www.nature.com/articles/d41591-024-00078-2”，
+      “摘要”：“两项研究表明，病毒分离株在动物模型中具有很高的传染性和致死率，并暗示了潜在的药物敏感性——但进一步分析和持续监测感染对于公共健康至关重要。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      "title": "探索延长寿命的极限",
+      “链接”：“https://www.nature.com/articles/d41591-024-00076-4”，
+      “摘要”：“二十世纪高收入国家的预期寿命出现了前所未有的增长，但数据表明，如果不采取激进的干预措施减缓生物衰老，这一趋势将在本世纪无法持续下去。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      "title": "探索延长寿命的极限",
+      “链接”：“https://www.nature.com/articles/d41591-024-00076-4”，
+      “摘要”：“二十世纪高收入国家的预期寿命出现了前所未有的增长，但数据表明，如果不采取激进的干预措施减缓生物衰老，这一趋势将在本世纪无法持续下去。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“针对产后抑郁症的文化适应性 CBT”，
+      “链接”：“https://www.nature.com/articles/d41591-024-00077-3”，
+      “summary”：“在英国南亚裔女性中，文化适应和社区知情的认知行为疗法干预比常规治疗具有更高的早期康复率。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“针对产后抑郁症的文化适应性 CBT”，
+      “链接”：“https://www.nature.com/articles/d41591-024-00077-3”，
+      “summary”：“在英国南亚裔女性中，文化适应和社区知情的认知行为疗法干预比常规治疗具有更高的早期康复率。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      "title": "幽门螺杆菌、胃癌和筛查难题",
+      “链接”：“https://www.nature.com/articles/d41591-024-00075-5”，
+      “summary”：“一项大型研究未能证明在标准结肠癌筛查中加入幽门螺杆菌筛查可降低胃癌发病率或死亡率。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      "title": "幽门螺杆菌、胃癌和筛查难题",
+      “链接”：“https://www.nature.com/articles/d41591-024-00075-5”，
+      “summary”：“一项大型研究未能证明在标准结肠癌筛查中加入幽门螺杆菌筛查可降低胃癌发病率或死亡率。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“膀胱癌围手术期免疫治疗”，
+      “链接”：“https://www.nature.com/articles/d41591-024-00074-6”，
+      "summary": "在 NIAGARA 试验中，在肌层浸润性膀胱癌的标准治疗中添加围手术期度伐单抗可改善无事件生存率和总体生存率，标志着这种疾病的新的治疗选择。",
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“膀胱癌围手术期免疫治疗”，
+      “链接”：“https://www.nature.com/articles/d41591-024-00074-6”，
+      "summary": "在 NIAGARA 试验中，在肌层浸润性膀胱癌的标准治疗中添加围手术期度伐单抗可改善无事件生存率和总体生存率，标志着这种疾病的新的治疗选择。",
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“聊天机器人改变了阴谋论者的想法”，
+      “链接”：“https://www.nature.com/articles/d41591-024-00073-7”，
+      “summary”：“一项针对 2,000 多人的研究表明，与大型语言模型进行交互可以通过提供量身定制的一对一互动和令人信服的证据，减少人们对阴谋论（包括一些与 COVID-19 相关的阴谋论）的信仰。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      “title”：“聊天机器人改变了阴谋论者的想法”，
+      “链接”：“https://www.nature.com/articles/d41591-024-00073-7”，
+      “summary”：“一项针对 2,000 多人的研究表明，与大型语言模型进行交互可以通过提供量身定制的一对一互动和令人信服的证据，减少人们对阴谋论（包括一些与 COVID-19 相关的阴谋论）的信仰。”，
+      “来源”：“https://www.nature.com/nm/articles?type=research-highlight”
+    }，
+    {
+      "title": "精选",
+      “链接”：“https://www.nature.com/articles/d41586-025-00694-z”，
+      “summary”：“新闻 | 2025 年 3 月 6 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      "title": "特朗普提名的 NIH 负责人谈论冻结拨款和培养‘科学异议’",
+      “链接”：“https://www.nature.com/articles/d41586-025-00694-z”，
+      “summary”：“新闻 | 2025 年 3 月 6 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      "title": "独家：NIH 将终止数百项现行研究资助",
+      “链接”：“https://www.nature.com/articles/d41586-025-00703-1”，
+      “summary”：“新闻 | 2025 年 3 月 6 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“愿景：保护和恢复珍贵的感觉”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00653-8”，
+      “summary”：“展望 | 2025 年 3 月 5 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      "title": "人类的回声定位是可以被教会的",
+      “链接”：“https://www.nature.com/articles/d41586-025-00657-4”，
+      “summary”：“展望 | 2025 年 3 月 5 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“人工智能可以促进低收入国家的眼科护理”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00658-3”，
+      “summary”：“展望 | 2025 年 3 月 5 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“为何女性的大脑更具弹性：这可能是她们‘沉默的’X 染色体”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00682-3”，
+      “summary”：“新闻 | 2025 年 3 月 5 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      "title": "如何让眼疾的治疗变得更容易？",
+      “链接”：“https://www.nature.com/articles/d41586-025-00655-6”，
+      “summary”：“展望 | 2025 年 3 月 5 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“利用光遗传学恢复视力”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00656-5”，
+      “summary”：“展望 | 2025 年 3 月 5 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      "title": "寻找解决视网膜地图样萎缩的方法",
+      “链接”：“https://www.nature.com/articles/d41586-025-00659-2”，
+      “summary”：“展望 | 2025 年 3 月 5 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“眼睛问题影响 NASA 对火星的观察”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00654-7”，
+      “summary”：“展望 | 2025 年 3 月 5 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“设计大麻素可能是缓解疼痛且无副作用的关键”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00546-w”，
+      “summary”：“新闻与观点 | 2025 年 3 月 5 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“大脑如何决定何时坚持、放弃或尝试新事物”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00631-0”，
+      “summary”：“研究简报 | 2025 年 3 月 5 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      "title": "神经元活动的多样性可能是由输入的差异引起的",
+      “链接”：“https://www.nature.com/articles/d41586-025-00634-x”，
+      “summary”：“研究简报 | 2025 年 3 月 5 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“这种关键蛋白质可能导致大脑衰老”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00689-w”，
+      “summary”：“新闻 | 2025 年 3 月 5 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“大脑如何决定是否坚持——以及何时放弃”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00675-2”，
+      “summary”：“新闻 | 2025 年 3 月 5 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“SARS-CoV-2 从相同病原体序列传播的精细模式”，
+      “链接”：“https://www.nature.com/articles/s41586-025-08637-4”，
+      “summary”：“文章\n2025 年 3 月 5 日 | 开放获取”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“训练临床 AI 像医生团队一样推理”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00618-x”，
+      “summary”：“评论 | 2025 年 3 月 4 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      "title": "利用你的研究来克服健康不平等：专家提出的四种策略",
+      “链接”：“https://www.nature.com/articles/d41586-025-00619-w”，
+      “summary”：“评论 | 2025 年 3 月 3 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“学术界的‘孤狼’文化如何损害研究人员的心理健康”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00603-4”，
+      “summary”：“《自然》职业播客 | 2025 年 2 月 28 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      "title": "消费级智能手表的脉搏检测自动丢失",
+      “链接”：“https://www.nature.com/articles/s41586-025-08810-9”，
+      "summary": "文章 | 2025 年 2 月 26 日",
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      "title": "如果你的心脏停止跳动，这款智能手表人工智能可以呼救",
+      “链接”：“https://www.nature.com/articles/d41586-025-00601-6”，
+      “summary”：“自然播客 | 2025 年 2 月 26 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“‘粘液’保护大脑——并能防止衰老”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00554-w”，
+      “summary”：“新闻 | 2025 年 2 月 26 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“揭露 Theranos 丑闻如何改变了 Erika Cheung 的职业生涯”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00366-y”，
+      “summary”：“职业专题 | 2025 年 2 月 26 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      "title": "养老院居民的皮肤是传播有害和耐药性微生物的来源",
+      “链接”：“https://www.nature.com/articles/d41586-025-00306-w”，
+      “summary”：“新闻与观点 | 2025 年 2 月 26 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“NIH 动荡引发对其全球拨款前景的担忧”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00595-1”，
+      “summary”：“新闻 | 2025 年 2 月 26 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“基于质谱的蛋白质组学：从单细胞到临床应用”，
+      “链接”：“https://www.nature.com/articles/s41586-025-08584-0”，
+      “summary”：“评论文章 | 2025 年 2 月 26 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“糖萼失调会损害衰老和疾病中的血脑屏障”，
+      “链接”：“https://www.nature.com/articles/s41586-025-08589-9”，
+      "summary": "文章\n2025 年 2 月 26 日 | 开放获取",
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“养老院居民皮肤上的克隆耳念珠菌和 ESKAPE 病原体”，
+      “链接”：“https://www.nature.com/articles/s41586-025-08608-9”，
+      "summary": "文章 | 2025 年 2 月 26 日",
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“十万人基因组计划中发现的罕见疾病基因关联”，
+      “链接”：“https://www.nature.com/articles/s41586-025-08623-w”，
+      "summary": "文章\n2025 年 2 月 26 日 | 开放获取",
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      "title": "国家气候政策必须解决心理健康问题",
+      “链接”：“https://www.nature.com/articles/d41586-025-00587-1”，
+      “summary”：“通讯 | 2025 年 2 月 25 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“你的衰老速度有多快？分子‘时钟’能告诉你哪些有关你健康的信息”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00566-6”，
+      "summary": "新闻专题 | 2025 年 2 月 25 日",
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“乳腺癌发病率呈上升趋势：数据显示生存率差距巨大”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00265-2”，
+      “summary”：“新闻 | 2025 年 2 月 24 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“新冠病毒暴露出的种族不平等现象不容遗忘”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00458-9”，
+      "summary": "书评 | 2025 年 2 月 24 日",
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“垃圾食品的泛滥如何改变你的大脑活动”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00549-7”，
+      “summary”：“新闻 | 2025 年 2 月 21 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“对早期癌症检测进行测试”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00530-4”，
+      “summary”：“展望 | 2025 年 2 月 21 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      "title": "如何给你的实验室带来健康和快乐",
+      “链接”：“https://www.nature.com/articles/d41586-025-00538-w”，
+      “summary”：“《自然》职业播客 | 2025 年 2 月 21 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“癌症进化可以为个性化抗癌疫苗提供目标”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00467-8”，
+      “summary”：“临床简报 | 2025 年 2 月 21 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      "title": "是什么引发了新冠疫情？越来越多的证据表明是貉造成的",
+      “链接”：“https://www.nature.com/articles/d41586-025-00426-3”，
+      “summary”：“新闻 | 2025 年 2 月 21 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      "title": "人工智能工具通过血液样本诊断糖尿病、艾滋病毒和新冠肺炎",
+      “链接”：“https://www.nature.com/articles/d41586-025-00528-y”，
+      "summary": "新闻 | 2025 年 2 月 20 日",
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“慢性压力如何扭曲决策”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00502-8”，
+      "summary": "新闻 | 2025 年 2 月 19 日",
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“定制疫苗可以引发针对胰腺癌的长期免疫活动”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00470-z”，
+      “summary”：“临床简报 | 2025 年 2 月 19 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“癌症中异常 RNA 加工产生的肽提供了免疫治疗靶点”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00302-0”，
+      “summary”：“新闻与观点 | 2025 年 2 月 19 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“世界卫生组织下一步该怎么做？美国退出可能重塑该机构”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00449-w”，
+      “summary”：“新闻解说 | 2025 年 2 月 19 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“人工智能用于模拟传染病流行病”，
+      “链接”：“https://www.nature.com/articles/s41586-024-08564-w”，
+      “summary”：“观点 | 2025 年 2 月 19 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“吸取新冠疫情的教训——趁还没太迟”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00498-1”，
+      "summary": "社论 | 2025 年 2 月 18 日",
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“迷幻药能否通过微调来缓解焦虑，但又省去‘旅行’的环节？”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00454-z”，
+      “summary”：“新闻与观点 | 2025 年 2 月 18 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“偏头痛不仅仅是头痛——彻底的反思为十亿人带来希望”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00456-x”，
+      "summary": "新闻专题 | 2025 年 2 月 18 日",
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“精确定位阻碍癌症治疗的神经元”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00501-9”，
+      “summary”：“新闻与观点 | 2025 年 2 月 18 日”，
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      “title”：“胰腺癌重编程的单个神经元的表征”，
+      “链接”：“https://www.nature.com/articles/s41586-025-08735-3”，
+      "summary": "文章 | 2025 年 2 月 17 日",
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      "title": "疫苗怀疑论者罗伯特·肯尼迪 (RFK Jr) 现在已成为美国科学界的一股强大力量：他会做什么？",
+      “链接”：“https://www.nature.com/articles/d41586-025-00439-y”，
+      "summary": "新闻 | 2025 年 2 月 13 日",
+      “来源”：“https://www.nature.com/subjects/health-sciences/nature”
+    }，
+    {
+      "title": "搜索",
+      "链接": "https://news.un.org/en/news/topic/health#block-un-news-search-block-primary-content",
+      "summary": "无可用摘要",
+      “来源”：“https://news.un.org/en/news/topic/health”
+    }，
+    {
+      "title": "世卫组织警告：资金削减危及全球抗击结核病的努力",
+      "链接": "https://news.un.org/en/story/2025/03/1160826",
+      “摘要”：“Facebook Twitter”，
+      “来源”：“https://news.un.org/en/news/topic/health”
+    }，
+    {
+      "title": "联合国禁毒机构警告：合成毒品“快速扩张”重塑非法市场",
+      "链接": "https://news.un.org/en/story/2025/03/1160741",
+      “摘要”：“Facebook Twitter”，
+      “来源”：“https://news.un.org/en/news/topic/health”
+    }，
+    {
+      "title": "刚果民主共和国：世卫组织追踪致命的神秘疾病",
+      "链接": "https://news.un.org/en/story/2025/02/1160596",
+      “摘要”：“Facebook Twitter”，
+      “来源”：“https://news.un.org/en/news/topic/health”
+    }，
+    {
+      “title”：“新报告指出美国削减全球艾滋病应对资金的严重性”，
+      "链接": "https://news.un.org/en/story/2025/02/1160561",
+      “摘要”：“Facebook Twitter”，
+      “来源”：“https://news.un.org/en/news/topic/health”
+    }，
+    {
+      “title”：“世界新闻简讯：刚果民主共和国冲突、欧洲“从摇篮到甘蔗”危机、乍得数百万人可能挨饿”，
+      "链接": "https://news.un.org/en/story/2025/02/1160501",
+      “摘要”：“Facebook Twitter”，
+      “来源”：“https://news.un.org/en/news/topic/health”
+    }，
+    {
+      "title": "世卫组织纪念拯救生命的烟草控制条约颁布 20 周年",
+      "链接": "https://news.un.org/en/story/2025/02/1160481",
+      “摘要”：“Facebook Twitter”，
+      “来源”：“https://news.un.org/en/news/topic/health”
+    }，
+    {
+      “title”：“世界卫生组织警告：到 2050 年，乳腺癌病例预计将增加近 40％”，
+      "链接": "https://news.un.org/en/story/2025/02/1160391",
+      “摘要”：“Facebook Twitter”，
+      “来源”：“https://news.un.org/en/news/topic/health”
+    }，
+    {
+      "title": "加沙开始新一轮脊髓灰质炎疫苗接种",
+      "链接": "https://news.un.org/en/story/2025/02/1160411",
+      “摘要”：“Facebook Twitter”，
+      “来源”：“https://news.un.org/en/news/topic/health”
+    }，
+    {
+      "title": "解释：关于童婚的 5 个常见误解",
+      "链接": "https://news.un.org/en/story/2025/02/1160241",
+      “摘要”：“Facebook Twitter”，
+      “来源”：“https://news.un.org/en/news/topic/health”
+    }，
+    {
+      "title": "联合国将继续在加沙开展脊髓灰质炎疫苗接种活动",
+      "链接": "https://news.un.org/en/story/2025/02/1160271",
+      “摘要”：“Facebook Twitter”，
+      “来源”：“https://news.un.org/en/news/topic/health”
+    }，
+    {
+      "title": "世卫组织回顾 2024 年",
+      “链接”：“https://www.who.int/news-room/spotlight/who-looks-back-at-2024”，
+      "summary": "无可用摘要",
+      “来源”：“https://www.who.int/news-room”
+    }，
+    {
+      "title": "搜索",
+      "link": "https://news.un.org/en/news/topic/women#block-un-news-search-block-primary-content",
+      "summary": "无可用摘要",
+      “来源”：“https://news.un.org/en/news/topic/women”
+    }，
+    {
+      "title": "苏丹：联合国儿童基金会警告：冲突期间年仅一岁的儿童遭强奸",
+      "链接": "https://news.un.org/en/story/2025/03/1160761",
+      “摘要”：“Facebook Twitter”，
+      “来源”：“https://news.un.org/en/news/topic/women”
+    }，
+    {
+      “title”：“联合国维和行动负责人称，联合国维和行动面临的最大威胁是国家之间的分裂”，
+      "链接": "https://news.un.org/en/story/2025/02/1160536",
+      “摘要”：“Facebook Twitter”，
+      “来源”：“https://news.un.org/en/news/topic/women”
+    }，
+    {
+      "title": "乌克兰：三年战争扭转了妇女和女童权益的进步",
+      "链接": "https://news.un.org/en/story/2025/02/1160291",
+      “摘要”：“Facebook Twitter”，
+      “来源”：“https://news.un.org/en/news/topic/women”
+    }，
+    {
+      "title": "联合国儿童基金会对刚果民主共和国东部儿童危机发出警报",
+      "链接": "https://news.un.org/en/story/2025/02/1160101",
+      “摘要”：“Facebook Twitter”，
+      “来源”：“https://news.un.org/en/news/topic/women”
+    }，
+    {
+      “title”：“努力实现梦想：‘我们知道答案’，以支持 STEM 领域的女性”，
+      "链接": "https://news.un.org/en/story/2025/02/1160041",
+      “摘要”：“Facebook Twitter”，
+      “来源”：“https://news.un.org/en/news/topic/women”
+    }，
+    {
+      “title”：“‘她拿着注射器、剃须刀片和绷带’：幸存的生殖器切割”，
+      "链接": "https://news.un.org/en/story/2025/02/1159886",
+      “摘要”：“Facebook Twitter”，
+      “来源”：“https://news.un.org/en/news/topic/women”
+    }，
+    {
+      "title": "联合国呼吁加快步伐，终止女性生殖器切割",
+      "链接": "https://news.un.org/en/story/2025/02/1159876",
+      “摘要”：“Facebook Twitter”，
+      “来源”：“https://news.un.org/en/news/topic/women”
+    }，
+    {
+      “title”：“‘新一代与众不同’：在吉布提，活动人士呼吁终止女性生殖器切割”，
+      "链接": "https://news.un.org/en/story/2025/02/1159786",
+      “摘要”：“Facebook Twitter”，
+      “来源”：“https://news.un.org/en/news/topic/women”
+    }，
+    {
+      "title": "世界新闻简讯：世卫组织总干事要求美国重新考虑退出，性别平等仍遥不可及，呼吁重新考虑北欧酒精法改革",
+      "链接": "https://news.un.org/en/story/2025/02/1159711",
+      “摘要”：“Facebook Twitter”，
+      “来源”：“https://news.un.org/en/news/topic/women”
+    }，
+    {
+      "title": "美国：联合国人权专家欢迎法院裁决重申教育领域基于性别的保护",
+      "链接": "https://news.un.org/en/story/2025/01/1159011",
+      “摘要”：“Facebook Twitter”，
+      “来源”：“https://news.un.org/en/news/topic/women”
+    }
+  ]

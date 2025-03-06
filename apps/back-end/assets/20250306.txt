@@ -1,0 +1,1164 @@
+[
+    {
+      "title": "A life-course approach to women’s health",
+      "link": "https://www.nature.com/articles/s41591-023-02777-8",
+      "summary": "We are launching a new Series as a starting point for discussions on how to improve the health of women and girls as part of a route to achieving global health equity."
+    },
+    {
+      "title": "Telehealth enables safe medication abortion in shifting health and legal contexts",
+      "link": "https://www.nature.com/articles/s41591-024-02876-0",
+      "summary": "Telehealth provision of medication abortion is safe and effective, but ensuring equitable access is challenging in the USA — and further compounded by an upcoming Supreme Court case."
+    },
+    {
+      "title": "Surge in endometriosis research after decades of underfunding could herald new era for women’s health",
+      "link": "https://www.nature.com/articles/s41591-024-02795-0",
+      "summary": "Advances in organoids and the role of the microbiome and diet are leading to new diagnostics and treatments for endometriosis, motivating a precision health approach to this long-neglected disease."
+    },
+    {
+      "title": "Delivering high-quality childbirth care",
+      "link": "https://www.nature.com/articles/s41591-024-02812-2",
+      "summary": "A pilot trial of the WHO’s Labour Care Guide reveals important considerations for implementation and for future trials aimed at reducing the inappropriate use of cesarean section, particularly in low- and middle-income countries."
+    },
+    {
+      "title": "Implementing plans for global elimination of cervical cancer",
+      "link": "https://www.nature.com/articles/s41591-023-02577-0",
+      "summary": "Evidence supports the use of primary HPV testing to accelerate the global elimination of cervical cancer, but such recommendations must be viewed in the context of the fragile healthcare systems and complex implementation challenges in low-income and lower-middle income countries."
+    },
+    {
+      "title": "Beyond bruises: the lifelong toll of violence on women’s health",
+      "link": "https://www.nature.com/articles/s41591-023-02654-4",
+      "summary": "The major health consequences of violence against women present a compelling case for global prevention, detection and intervention initiatives."
+    },
+    {
+      "title": "Person-centered HIV PrEP for cisgender women",
+      "link": "https://www.nature.com/articles/s41591-023-02618-8",
+      "summary": "Two modelling studies offer compelling evidence that less-than-perfect adherence to HIV pre-exposure prophylaxis can still provide reasonable protection for cisgender women — providing optimism for a more person-centered approach and lower discontinuation rates."
+    },
+    {
+      "title": "Expanding the reach and scalability of perinatal mental health interventions",
+      "link": "https://www.nature.com/articles/s41591-024-02825-x",
+      "summary": "A new study shows the benefits of treating anxiety to prevent postnatal depression — and highlights the need for more pragmatic research to simplify treatment packages, address other comorbid symptoms, and deliver effective perinatal mental health care at scale."
+    },
+    {
+      "title": "Reproductive rights in the United States: acquiescence is not a strategy",
+      "link": "https://www.nature.com/articles/s41591-024-02921-y",
+      "summary": "Scientific and medical conferences should not be held in states that ban abortion, as such bans put the lives of women at risk."
+    },
+    {
+      "title": "Promoting gender equity in the scientific and health workforce is essential to improve women’s health",
+      "link": "https://www.nature.com/articles/s41591-024-02872-4",
+      "summary": "Women’s health can be improved by increasing the representation of women in leadership roles in science, medicine and public health."
+    },
+    {
+      "title": "Women’s health is on the ballot in 2024",
+      "link": "https://www.nature.com/articles/s41591-024-03116-1",
+      "summary": "Politics affects women’s health, from abortion access to funding for health systems, and voters should choose their politicians accordingly."
+    },
+    {
+      "title": "Citizen science as an instrument for women’s health research",
+      "link": "https://www.nature.com/articles/s41591-024-03371-2",
+      "summary": "Citizen-science approaches can help challenge taboos around intimate health topics, amplify underrepresented voices and prioritize women’s involvement in health research; this Perspective considers the key challenges and ingredients for success."
+    },
+    {
+      "title": "Women’s health and rights in the twenty-first century",
+      "link": "https://www.nature.com/articles/s41591-024-03036-0",
+      "summary": "This Review explores the intersectionality between women’s sexual and reproductive health and rights against the backdrop of technological advances and global crises and provides a set of actionable priorities to advance this cause."
+    },
+    {
+      "title": "Self-care interventions for women’s health and well-being",
+      "link": "https://www.nature.com/articles/s41591-024-02844-8",
+      "summary": "Self-care interventions have the potential to improve health coverage for women while offering greater agency and autonomy, but only if certain barriers—such as stigma and cost—can be overcome."
+    },
+    {
+      "title": "A life-course approach to tackling noncommunicable diseases in women",
+      "link": "https://www.nature.com/articles/s41591-023-02738-1",
+      "summary": "The unique risks and needs of women in relation to noncommunicable diseases offer myriad opportunities to intervene and prevent disease, but several key barriers to implementation must be addressed."
+    },
+    {
+      "title": "Effectiveness and safety of telehealth medication abortion in the USA",
+      "link": "https://www.nature.com/articles/s41591-024-02834-w",
+      "summary": "In a prospective study across US states where abortion remains legal, telehealth medication abortion, provided primarily without tests, was effective, safe and comparable to previous findings from large US studies investigating in-person medication abortion care."
+    },
+    {
+      "title": "Real-world implementation of a multilevel interventions program to prevent mother-to-child transmission of HBV in China",
+      "link": "https://www.nature.com/articles/s41591-023-02782-x",
+      "summary": "Interim analysis of the SHIELD program, adopting multilevel interventions, showcases low mother-to-child transmission (MTCT) rates of hepatitis B virus (HBV) across different hospital and community settings in China."
+    },
+    {
+      "title": "Effects of the WHO Labour Care Guide on cesarean section in India: a pragmatic, stepped-wedge, cluster-randomized pilot trial",
+      "link": "https://www.nature.com/articles/s41591-023-02751-4",
+      "summary": "To evaluate the effects of implementing the WHO Labour Care Guide on cesarean section rates, as compared to routine intrapartum care, a pilot trial conducted in India generated preliminary evidence around the effectiveness of the strategy that can inform larger definitive trials."
+    },
+    {
+      "title": "Benefits, harms and cost-effectiveness of cervical screening, triage and treatment strategies for women in the general population",
+      "link": "https://www.nature.com/articles/s41591-023-02600-4",
+      "summary": "A modelled evaluation of screening and treatment strategies for prevention of cervical cancer in 78 low- and lower-middle-income countries provides evidence to support the World Health Organization’s recommendation of primary HPV testing for women in the general population."
+    },
+    {
+      "title": "Benefits and harms of cervical screening, triage and treatment strategies in women living with HIV",
+      "link": "https://www.nature.com/articles/s41591-023-02601-3",
+      "summary": "A model evaluating cervical screening, triage and treatment strategies to prevent cervical cancer in women living with HIV in Tanzania provides evidence to support the World Health Organization’s recommendation of primary HPV testing starting at age 25 years with 3–5-year regular screening intervals."
+    },
+    {
+      "title": "Durability of single-dose HPV vaccination in young Kenyan women: randomized controlled trial 3-year results",
+      "link": "https://www.nature.com/articles/s41591-023-02658-0",
+      "summary": "In a prespecified 3-year analysis of the KEN SHE trial, single-dose HPV vaccination was shown to be well tolerated and provided durable protection against cervical HPV infection in Kenyan women aged 15–20 years."
+    },
+    {
+      "title": "Health effects associated with exposure to intimate partner violence against women and childhood sexual abuse: a Burden of Proof study",
+      "link": "https://www.nature.com/articles/s41591-023-02629-5",
+      "summary": "A meta-analysis using the burden of proof risk function identified consistent evidence supporting harmful associations between the exposure to intimate partner violence against women and childhood sexual abuse on health outcomes."
+    },
+    {
+      "title": "Efficacy estimates of oral pre-exposure prophylaxis for HIV prevention in cisgender women with partial adherence",
+      "link": "https://www.nature.com/articles/s41591-023-02564-5",
+      "summary": "Pre-exposure prophylaxis (PrEP) with daily antiretrovirals to prevent human immunodeficiency virus type 1 acquisition has not been shown to be consistently effective in cisgender women. Modeling adherence to daily PrEP clarifies how robust protection can be achieved."
+    },
+    {
+      "title": "Model-based predictions of protective HIV pre-exposure prophylaxis adherence levels in cisgender women",
+      "link": "https://www.nature.com/articles/s41591-023-02615-x",
+      "summary": "Modeling shows that antiretroviral treatment as pre-exposure prophylaxis (PrEP) can be highly effective in cisgender women at preventing HIV-1 acquisition, but underscores the need to understand the barriers that limit PrEP adherence in women."
+    },
+    {
+      "title": "Anxiety-focused cognitive behavioral therapy delivered by non-specialists to prevent postnatal depression: a randomized, phase 3 trial",
+      "link": "https://www.nature.com/articles/s41591-024-02809-x",
+      "summary": "In a phase 3 trial, an anxiety-focused cognitive behavioral therapy intervention delivered during pregnancy by non-specialist providers in Pakistan reduced the incidence of postnatal depression and anxiety compared to enhanced care."
+    },
+    {
+      "title": "AI tool reads immune signatures to detect disease",
+      "link": "https://www.nature.com/articles/d41591-025-00016-w",
+      "summary": "A machine learning framework — trained on B cell and T cell receptor sequences from thousands of people — can detect a range of infectious and autoimmune diseases."
+    },
+    {
+      "title": "A bispecific antibody delivers new treatment for NRG1 fusion–positive cancers",
+      "link": "https://www.nature.com/articles/d41591-025-00015-x",
+      "summary": "In a phase 2 registrational trial, zenocutuzumab showed durable anti-tumor activity across a variety of NRG1 fusion-positive cancer types, providing a new treatment for patients with few alternative options."
+    },
+    {
+      "title": "Dual immunotherapy benefits certain patients with metastatic colorectal cancer",
+      "link": "https://www.nature.com/articles/d41591-025-00014-y",
+      "summary": "The phase 3 CheckMate 8HW trial shows superior outcomes with nivolumab plus ipilimumab (compared with nivolumab monotherapy) in patients with microsatellite instability-high or mismatch repair-deficient metastatic colorectal cancer."
+    },
+    {
+      "title": "Engineered heart muscle reinvigorates failing hearts",
+      "link": "https://www.nature.com/articles/d41591-025-00013-z",
+      "summary": "Heart muscle grafts engineered from induced pluripotent stem cells enhanced cardiac function in rhesus macaques with heart failure, while encouraging data from a single patient support ongoing clinical evaluation."
+    },
+    {
+      "title": "Reversing the effects of industrialization on the gut microbiome",
+      "link": "https://www.nature.com/articles/d41591-025-00010-2",
+      "summary": "A diet ‘restoration’ strategy that mimics non-industrialized dietary habits showed beneficial effects on the gut microbiome that were predictive of cardiometabolic benefits."
+    },
+    {
+      "title": "Estimating the true number of traumatic deaths in Gaza",
+      "link": "https://www.nature.com/articles/d41591-025-00008-w",
+      "summary": "A method designed to account for data gaps and under-reporting estimates 64,260 deaths from traumatic injury — indicating that prior reports underestimated by 41%."
+    },
+    {
+      "title": "Recognizing ultra-processed foods in grocery stores",
+      "link": "https://www.nature.com/articles/d41591-025-00007-x",
+      "summary": "GroceryDB uses machine learning to categorize the degree of processing of over 50,000 food items in US stores — and guides consumers toward healthier choices through accessible data."
+    },
+    {
+      "title": "Prenatal blood tests can reveal maternal cancer",
+      "link": "https://www.nature.com/articles/d41591-025-00006-y",
+      "summary": "A study detected hidden cancers in almost half of all pregnant people who were referred for cancer screening following an abnormal or unreportable prenatal blood test result."
+    },
+    {
+      "title": "Menstrual cycle linked to breast cancer chemotherapy response",
+      "link": "https://www.nature.com/articles/d41591-025-00004-0",
+      "summary": "According to preclinical studies and a retrospective clinical analysis, the menstrual cycle may influence the breast cancer response to neoadjuvant chemotherapy — suggesting that treatment could be timed for optimal outcomes."
+    },
+    {
+      "title": "Green cities for better health",
+      "link": "https://www.nature.com/articles/d41591-025-00001-3",
+      "summary": "Satellite data assessing residential greenness across Italy indicate that thousands of deaths could be prevented by greening residential areas."
+    },
+    {
+      "title": "Early readout shows promise of genomic newborn screening",
+      "link": "https://www.nature.com/articles/d41591-024-00082-6",
+      "summary": "Interim results from a large, ongoing study shows that genomic newborn screening identifies treatable conditions that would be missed by standard tests."
+    },
+    {
+      "title": "Internet use linked to better mental health in older adults",
+      "link": "https://www.nature.com/articles/d41591-024-00081-7",
+      "summary": "According to a large international study, Internet use among adults 50 or more years of age correlates with reduced depressive symptoms, increased life satisfaction and improved self-reported health."
+    },
+    {
+      "title": "Obesity predisposes to specific cancer driver mutations",
+      "link": "https://www.nature.com/articles/d41591-024-00080-8",
+      "summary": "A large-scale genomic analysis reveals associations between body mass index and certain driver mutations in various cancer types, particularly lung adenocarcinoma."
+    },
+    {
+      "title": "Limiting babies’ sugar intake protects them against chronic diseases",
+      "link": "https://www.nature.com/articles/d41591-024-00079-1",
+      "summary": "Post-war rationing in the UK in 1953 facilitated a natural experiment that now reveals that restricting sugar intake in early life reduces the risk of diabetes and hypertension."
+    },
+    {
+      "title": "H5N1 from an infected dairy worker sheds light on viral transmission",
+      "link": "https://www.nature.com/articles/d41591-024-00078-2",
+      "summary": "Two studies reveal high transmissibility and lethality of the viral isolate in animal models, and hint at potential drug susceptibility — but further analysis and ongoing surveillance of infections will be critical for public health."
+    },
+    {
+      "title": "Exploring the limits of life extension",
+      "link": "https://www.nature.com/articles/d41591-024-00076-4",
+      "summary": "The twentieth century saw unprecedented rises in life expectancy in high-income countries, but data suggest that this trend will not continue in the current century without radical interventions to slow biological aging."
+    },
+    {
+      "title": "Culturally adapted CBT for postnatal depression",
+      "link": "https://www.nature.com/articles/d41591-024-00077-3",
+      "summary": "In British South Asian women, a culturally adapted and community-informed cognitive behavioral therapy intervention led to higher early recovery rates than the usual treatment."
+    },
+    {
+      "title": "Helicobacter pylori, gastric cancer and the screening conundrum",
+      "link": "https://www.nature.com/articles/d41591-024-00075-5",
+      "summary": "A large study failed to show a reduction in gastric cancer incidence or mortality when Helicobacter pylori screening was added to standard colon cancer screening."
+    },
+    {
+      "title": "Perioperative immunotherapy for bladder cancer",
+      "link": "https://www.nature.com/articles/d41591-024-00074-6",
+      "summary": "In the NIAGARA trial, the addition of perioperative durvalumab to standard treatment for muscle-invasive bladder cancer improved event-free and overall survival, marking a new treatment option for this condition."
+    },
+    {
+      "title": "A chatbot changes the minds of conspiracy theorists",
+      "link": "https://www.nature.com/articles/d41591-024-00073-7",
+      "summary": "A study of over 2,000 people shows that interacting with a large language model reduced belief in conspiracy theories — including some related to COVID-19 — by providing tailored, one-on-one interactions and compelling evidence."
+    },
+    {
+      "title": "Trump's nominee for NIH chief talks frozen grants and fostering ‘scientific dissent’",
+      "link": "https://www.nature.com/articles/d41586-025-00694-z",
+      "summary": "News | 06 March 2025"
+    },
+    {
+      "title": "Exclusive: NIH to terminate hundreds of active research grants",
+      "link": "https://www.nature.com/articles/d41586-025-00703-1",
+      "summary": "News | 06 March 2025"
+    },
+    {
+      "title": "Vision: protecting and restoring a prized sense",
+      "link": "https://www.nature.com/articles/d41586-025-00653-8",
+      "summary": "Outlook | 05 March 2025"
+    },
+    {
+      "title": "Human echolocation can be taught",
+      "link": "https://www.nature.com/articles/d41586-025-00657-4",
+      "summary": "Outlook | 05 March 2025"
+    },
+    {
+      "title": "Artificial intelligence could boost eye care in low-income countries",
+      "link": "https://www.nature.com/articles/d41586-025-00658-3",
+      "summary": "Outlook | 05 March 2025"
+    },
+    {
+      "title": "Why women’s brains are more resilient: it could be their ‘silent’ X chromosome",
+      "link": "https://www.nature.com/articles/d41586-025-00682-3",
+      "summary": "News | 05 March 2025"
+    },
+    {
+      "title": "How can treatment for eye disease be made easier?",
+      "link": "https://www.nature.com/articles/d41586-025-00655-6",
+      "summary": "Outlook | 05 March 2025"
+    },
+    {
+      "title": "Restoring vision with optogenetics",
+      "link": "https://www.nature.com/articles/d41586-025-00656-5",
+      "summary": "Outlook | 05 March 2025"
+    },
+    {
+      "title": "The search for solutions to geographic atrophy of the retina",
+      "link": "https://www.nature.com/articles/d41586-025-00659-2",
+      "summary": "Outlook | 05 March 2025"
+    },
+    {
+      "title": "Eye problems cloud NASA’s vision of Mars",
+      "link": "https://www.nature.com/articles/d41586-025-00654-7",
+      "summary": "Outlook | 05 March 2025"
+    },
+    {
+      "title": "Designer cannabinoids could be the key to pain relief without adverse effects",
+      "link": "https://www.nature.com/articles/d41586-025-00546-w",
+      "summary": "News & Views | 05 March 2025"
+    },
+    {
+      "title": "How the brain decides when to stick at it, give up or try something new",
+      "link": "https://www.nature.com/articles/d41586-025-00631-0",
+      "summary": "Research Briefing | 05 March 2025"
+    },
+    {
+      "title": "Diversity in neuronal activity could be caused by differences in inputs",
+      "link": "https://www.nature.com/articles/d41586-025-00634-x",
+      "summary": "Research Briefing | 05 March 2025"
+    },
+    {
+      "title": "This key protein could be responsible for brain ageing",
+      "link": "https://www.nature.com/articles/d41586-025-00689-w",
+      "summary": "News | 05 March 2025"
+    },
+    {
+      "title": "How the brain decides whether to persist — and when to give up",
+      "link": "https://www.nature.com/articles/d41586-025-00675-2",
+      "summary": "News | 05 March 2025"
+    },
+    {
+      "title": "Fine-scale patterns of SARS-CoV-2 spread from identical pathogen sequences",
+      "link": "https://www.nature.com/articles/s41586-025-08637-4",
+      "summary": "Article\n05 March 2025 | Open Access"
+    },
+    {
+      "title": "Train clinical AI to reason like a team of doctors",
+      "link": "https://www.nature.com/articles/d41586-025-00618-x",
+      "summary": "Comment | 04 March 2025"
+    },
+    {
+      "title": "Use your research to beat health inequities: four strategies from experts",
+      "link": "https://www.nature.com/articles/d41586-025-00619-w",
+      "summary": "Comment | 03 March 2025"
+    },
+    {
+      "title": "How academia’s ‘lone wolf’ culture is harming researcher mental health",
+      "link": "https://www.nature.com/articles/d41586-025-00603-4",
+      "summary": "Nature Careers Podcast | 28 February 2025"
+    },
+    {
+      "title": "Automated loss of pulse detection on a consumer smartwatch",
+      "link": "https://www.nature.com/articles/s41586-025-08810-9",
+      "summary": "Article | 26 February 2025"
+    },
+    {
+      "title": "If your heart stops, this smartwatch-AI can call for help",
+      "link": "https://www.nature.com/articles/d41586-025-00601-6",
+      "summary": "Nature Podcast | 26 February 2025"
+    },
+    {
+      "title": "‘Slime’ keeps the brain safe ― and could guard against ageing",
+      "link": "https://www.nature.com/articles/d41586-025-00554-w",
+      "summary": "News | 26 February 2025"
+    },
+    {
+      "title": "How blowing the whistle on the Theranos scandal transformed Erika Cheung’s career",
+      "link": "https://www.nature.com/articles/d41586-025-00366-y",
+      "summary": "Career Feature | 26 February 2025"
+    },
+    {
+      "title": "Nursing-home residents’ skin is a source of transmitted harmful and drug-resistant microbes",
+      "link": "https://www.nature.com/articles/d41586-025-00306-w",
+      "summary": "News & Views | 26 February 2025"
+    },
+    {
+      "title": "NIH turmoil sparks anxiety over future of its global grants",
+      "link": "https://www.nature.com/articles/d41586-025-00595-1",
+      "summary": "News | 26 February 2025"
+    },
+    {
+      "title": "Mass-spectrometry-based proteomics: from single cells to clinical applications",
+      "link": "https://www.nature.com/articles/s41586-025-08584-0",
+      "summary": "Review Article | 26 February 2025"
+    },
+    {
+      "title": "Glycocalyx dysregulation impairs blood–brain barrier in ageing and disease",
+      "link": "https://www.nature.com/articles/s41586-025-08589-9",
+      "summary": "Article\n26 February 2025 | Open Access"
+    },
+    {
+      "title": "Clonal Candida auris and ESKAPE pathogens on the skin of residents of nursing homes",
+      "link": "https://www.nature.com/articles/s41586-025-08608-9",
+      "summary": "Article | 26 February 2025"
+    },
+    {
+      "title": "Rare disease gene association discovery in the 100,000 Genomes Project",
+      "link": "https://www.nature.com/articles/s41586-025-08623-w",
+      "summary": "Article\n26 February 2025 | Open Access"
+    },
+    {
+      "title": "National climate policies must address mental health",
+      "link": "https://www.nature.com/articles/d41586-025-00587-1",
+      "summary": "Correspondence | 25 February 2025"
+    },
+    {
+      "title": "How quickly are you ageing? What molecular ‘clocks’ can tell you about your health",
+      "link": "https://www.nature.com/articles/d41586-025-00566-6",
+      "summary": "News Feature | 25 February 2025"
+    },
+    {
+      "title": "Breast cancer is on the rise: data reveal drastic gap in survival rates",
+      "link": "https://www.nature.com/articles/d41586-025-00265-2",
+      "summary": "News | 24 February 2025"
+    },
+    {
+      "title": "The racial injustice laid bare by COVID must not be forgotten",
+      "link": "https://www.nature.com/articles/d41586-025-00458-9",
+      "summary": "Book Review | 24 February 2025"
+    },
+    {
+      "title": "How a junk-food splurge can change your brain activity",
+      "link": "https://www.nature.com/articles/d41586-025-00549-7",
+      "summary": "News | 21 February 2025"
+    },
+    {
+      "title": "Putting early cancer detection to the test",
+      "link": "https://www.nature.com/articles/d41586-025-00530-4",
+      "summary": "Outlook | 21 February 2025"
+    },
+    {
+      "title": "How to bring health and happiness to your lab",
+      "link": "https://www.nature.com/articles/d41586-025-00538-w",
+      "summary": "Nature Careers Podcast | 21 February 2025"
+    },
+    {
+      "title": "Cancer evolution could inform targets for personalized anticancer vaccines",
+      "link": "https://www.nature.com/articles/d41586-025-00467-8",
+      "summary": "Clinical Briefing | 21 February 2025"
+    },
+    {
+      "title": "What sparked the COVID pandemic? Mounting evidence points to raccoon dogs",
+      "link": "https://www.nature.com/articles/d41586-025-00426-3",
+      "summary": "News | 21 February 2025"
+    },
+    {
+      "title": "AI tool diagnoses diabetes, HIV and COVID from a blood sample",
+      "link": "https://www.nature.com/articles/d41586-025-00528-y",
+      "summary": "News | 20 February 2025"
+    },
+    {
+      "title": "How chronic stress warps decision-making",
+      "link": "https://www.nature.com/articles/d41586-025-00502-8",
+      "summary": "News | 19 February 2025"
+    },
+    {
+      "title": "Bespoke vaccines can elicit long-lived immune activity against pancreatic cancer",
+      "link": "https://www.nature.com/articles/d41586-025-00470-z",
+      "summary": "Clinical Briefing | 19 February 2025"
+    },
+    {
+      "title": "Peptides from abnormal RNA processing in cancer offer an immunotherapy target",
+      "link": "https://www.nature.com/articles/d41586-025-00302-0",
+      "summary": "News & Views | 19 February 2025"
+    },
+    {
+      "title": "What’s next for the World Health Organization? US exit could reshape agency",
+      "link": "https://www.nature.com/articles/d41586-025-00449-w",
+      "summary": "News Explainer | 19 February 2025"
+    },
+    {
+      "title": "Artificial intelligence for modelling infectious disease epidemics",
+      "link": "https://www.nature.com/articles/s41586-024-08564-w",
+      "summary": "Perspective | 19 February 2025"
+    },
+    {
+      "title": "Learn COVID pandemic lessons — before it’s too late",
+      "link": "https://www.nature.com/articles/d41586-025-00498-1",
+      "summary": "Editorial | 18 February 2025"
+    },
+    {
+      "title": "Could psychedelics be fine-tuned to relieve anxiety but skip the ‘trip’?",
+      "link": "https://www.nature.com/articles/d41586-025-00454-z",
+      "summary": "News & Views | 18 February 2025"
+    },
+    {
+      "title": "Migraine is more than a headache — a radical rethink offers hope to one billion people",
+      "link": "https://www.nature.com/articles/d41586-025-00456-x",
+      "summary": "News Feature | 18 February 2025"
+    },
+    {
+      "title": "Pinpointing neurons that hinder cancer treatment",
+      "link": "https://www.nature.com/articles/d41586-025-00501-9",
+      "summary": "News & Views | 18 February 2025"
+    },
+    {
+      "title": "Characterization of single neurons reprogrammed by pancreatic cancer",
+      "link": "https://www.nature.com/articles/s41586-025-08735-3",
+      "summary": "Article | 17 February 2025"
+    },
+    {
+      "title": "Vaccine sceptic RFK Jr is now a powerful force in US science: what will he do?",
+      "link": "https://www.nature.com/articles/d41586-025-00439-y",
+      "summary": "News | 13 February 2025"
+    },
+    {
+      "title": "Funding cuts jeopardize global fight against tuberculosis, WHO warns",
+      "link": "https://news.un.org/en/story/2025/03/1160826",
+      "summary": "Facebook Twitter"
+    },
+    {
+      "title": "‘Rapid expansion’ of synthetic drugs reshaping illicit markets, UN anti-narcotics body warns",
+      "link": "https://news.un.org/en/story/2025/03/1160741",
+      "summary": "Facebook Twitter"
+    },
+    {
+      "title": "DR Congo: WHO tracks deadly mysterious illness",
+      "link": "https://news.un.org/en/story/2025/02/1160596",
+      "summary": "Facebook Twitter"
+    },
+    {
+      "title": "New report flags severity of US funding cuts to global AIDS response",
+      "link": "https://news.un.org/en/story/2025/02/1160561",
+      "summary": "Facebook Twitter"
+    },
+    {
+      "title": "World News in Brief: Conflict in DR Congo, Europe’s ‘cradle to cane’ crisis, millions may go hungry in Chad",
+      "link": "https://news.un.org/en/story/2025/02/1160501",
+      "summary": "Facebook Twitter"
+    },
+    {
+      "title": "WHO marks 20 years of its lifesaving tobacco control treaty",
+      "link": "https://news.un.org/en/story/2025/02/1160481",
+      "summary": "Facebook Twitter"
+    },
+    {
+      "title": "Breast cancer cases projected to rise by nearly 40 per cent by 2050, WHO warns",
+      "link": "https://news.un.org/en/story/2025/02/1160391",
+      "summary": "Facebook Twitter"
+    },
+    {
+      "title": "New round of polio vaccinations begins in Gaza",
+      "link": "https://news.un.org/en/story/2025/02/1160411",
+      "summary": "Facebook Twitter"
+    },
+    {
+      "title": "Explainer: 5 common myths about child marriage",
+      "link": "https://news.un.org/en/story/2025/02/1160241",
+      "summary": "Facebook Twitter"
+    },
+    {
+      "title": "UN to continue Gaza vaccination campaign against polio",
+      "link": "https://news.un.org/en/story/2025/02/1160271",
+      "summary": "Facebook Twitter"
+    },
+    {
+      "title": "WHO looks back at 2024",
+      "link": "https://www.who.int/news-room/spotlight/who-looks-back-at-2024",
+      "summary": "No summary available"
+    },
+    {
+      "title": "Sudan: Children as young as one raped during conflict, UNICEF warns",
+      "link": "https://news.un.org/en/story/2025/03/1160761",
+      "summary": "Facebook Twitter"
+    },
+    {
+      "title": "Greatest threat to UN Peacekeeping is divisions between nations, says UN Peace Operations Chief",
+      "link": "https://news.un.org/en/story/2025/02/1160536",
+      "summary": "Facebook Twitter"
+    },
+    {
+      "title": "Ukraine: Three years of war reverses progress for women and girls",
+      "link": "https://news.un.org/en/story/2025/02/1160291",
+      "summary": "Facebook Twitter"
+    },
+    {
+      "title": "UNICEF sounds alarm over child crisis in eastern DR Congo",
+      "link": "https://news.un.org/en/story/2025/02/1160101",
+      "summary": "Facebook Twitter"
+    },
+    {
+      "title": "Reaching for the stars: ‘We know the answers’ to support women in STEM",
+      "link": "https://news.un.org/en/story/2025/02/1160041",
+      "summary": "Facebook Twitter"
+    },
+    {
+      "title": "‘She had a syringe, razor blade, and bandages’: Surviving genital mutilation",
+      "link": "https://news.un.org/en/story/2025/02/1159886",
+      "summary": "Facebook Twitter"
+    },
+    {
+      "title": "‘Step Up the Pace’ and end female genital mutilation, UN says",
+      "link": "https://news.un.org/en/story/2025/02/1159876",
+      "summary": "Facebook Twitter"
+    },
+    {
+      "title": "‘The new generation is different’: In Djibouti, activists lobby to end female genital mutilation",
+      "link": "https://news.un.org/en/story/2025/02/1159786",
+      "summary": "Facebook Twitter"
+    },
+    {
+      "title": "World News in Brief: WHO chief asks US to reconsider withdrawal, gender parity remains distant goal, call for rethink on Nordic alcohol law change",
+      "link": "https://news.un.org/en/story/2025/02/1159711",
+      "summary": "Facebook Twitter"
+    },
+    {
+      "title": "US: UN rights expert welcomes court ruling reaffirming sex-based protections in education",
+      "link": "https://news.un.org/en/story/2025/01/1159011",
+      "summary": "Facebook Twitter"
+    }
+  ]
+ [
+    {
+      “title”：“女性健康的生命历程方法”，
+      “链接”：“https://www.nature.com/articles/s41591-023-02777-8”，
+      “摘要”：“我们正在推出一个新的系列，作为讨论如何改善妇女和女童健康的起点，作为实现全球健康公平的一部分。”
+    }，
+    {
+      “title”：“远程医疗可以在不断变化的健康和法律环境下实现安全的药物流产”，
+      “链接”：“https://www.nature.com/articles/s41591-024-02876-0”，
+      “摘要”：“远程医疗提供的药物流产是安全有效的，但在美国，确保公平获得药物是一项挑战，而即将出台的最高法院案件进一步加剧了这一挑战。”
+    }，
+    {
+      “title”：“数十年资金不足后子宫内膜异位症研究的激增可能预示着女性健康新时代的到来”，
+      “链接”：“https://www.nature.com/articles/s41591-024-02795-0”，
+      “摘要”：“类器官的进展以及微生物组和饮食的作用正在带来子宫内膜异位症的新诊断和治疗方法，从而激发对这种长期被忽视的疾病采取精准的健康方法。”
+    }，
+    {
+      "title": "提供高质量的分娩护理",
+      “链接”：“https://www.nature.com/articles/s41591-024-02812-2”，
+      “摘要”：“世卫组织分娩护理指南的试点试验揭示了实施和未来试验的重要考虑因素，旨在减少剖宫产的不当使用，特别是在中低收入国家。”
+    }，
+    {
+      "title": "实施全球消除宫颈癌计划",
+      “链接”：“https://www.nature.com/articles/s41591-023-02577-0”，
+      “摘要”：“证据支持使用初级 HPV 检测来加速全球消除宫颈癌，但必须在低收入和中低收入国家脆弱的医疗保健系统和复杂的实施挑战的背景下看待此类建议。”
+    }，
+    {
+      "title": "除了伤痕：暴力对女性健康的终生影响",
+      “链接”：“https://www.nature.com/articles/s41591-023-02654-4”，
+      “摘要”：“针对妇女的暴力行为造成的严重健康后果为全球预防、发现和干预举措提供了有力的证据。”
+    }，
+    {
+      “title”：“以人为本的顺性别女性 HIV 预防”，
+      “链接”：“https://www.nature.com/articles/s41591-023-02618-8”，
+      “摘要”：“两项建模研究提供了令人信服的证据，表明即使不完美地遵守艾滋病毒暴露前预防措施仍然可以为顺性别女性提供合理的保护——这为以人为本的方法和降低停药率带来了乐观。”
+    }，
+    {
+      “title”：“扩大围产期心理健康干预的覆盖面和可扩展性”，
+      “链接”：“https://www.nature.com/articles/s41591-024-02825-x”，
+      “摘要”：“一项新的研究显示了治疗焦虑症对预防产后抑郁症的益处，并强调需要进行更务实的研究来简化治疗方案，解决其他合并症状，并大规模提供有效的围产期心理健康护理。”
+    }，
+    {
+      “title”：“美国的生育权利：默许不是一种策略”，
+      “链接”：“https://www.nature.com/articles/s41591-024-02921-y”，
+      “摘要”：“科学和医学会议不应在禁止堕胎的国家举行，因为这种禁令会危及妇女的生命。”
+    }，
+    {
+      "title": "促进科学和卫生队伍中的性别平等对于改善妇女健康至关重要",
+      “链接”：“https://www.nature.com/articles/s41591-024-02872-4”，
+      “摘要”：“通过增加女性在科学、医学和公共卫生领域的领导地位，可以改善女性的健康状况。”
+    }，
+    {
+      “title”：“2024 年，女性健康问题将列入选举议题”，
+      “链接”：“https://www.nature.com/articles/s41591-024-03116-1”，
+      “摘要”：“政治影响妇女的健康，从堕胎机会到卫生系统的资金，选民应该据此选择政治家。”
+    }，
+    {
+      “title”：“公民科学作为妇女健康研究的工具”，
+      “链接”：“https://www.nature.com/articles/s41591-024-03371-2”，
+      “摘要”：“公民科学方法可以帮助挑战围绕私密健康话题的禁忌，扩大代表性不足的声音，并优先考虑女性参与健康研究；这一观点考虑了成功的关键挑战和因素。”
+    }，
+    {
+      “title”：“二十一世纪妇女的健康和权利”，
+      “链接”：“https://www.nature.com/articles/s41591-024-03036-0”，
+      “摘要”：“本评论探讨了技术进步和全球危机背景下妇女性健康和生殖健康与权利之间的相互关系，并提出了一系列可行的优先事项来推进这一事业。”
+    }，
+    {
+      “title”：“女性健康和福祉的自我护理干预”，
+      “链接”：“https://www.nature.com/articles/s41591-024-02844-8”，
+      “摘要”：“自我护理干预有可能改善女性的医疗保险，同时提供更大的代理权和自主权，但只有能够克服某些障碍（例如耻辱和成本）才能实现。”
+    }，
+    {
+      “title”：“通过生命全程方法应对女性非传染性疾病”，
+      “链接”：“https://www.nature.com/articles/s41591-023-02738-1”，
+      “摘要”：“女性在非传染性疾病方面的独特风险和需求为干预和预防疾病提供了无数机会，但必须解决几个关键的实施障碍。”
+    }，
+    {
+      “title”：“美国远程医疗药物流产的有效性和安全性”，
+      “链接”：“https://www.nature.com/articles/s41591-024-02834-w”，
+      “摘要”：“在堕胎仍然合法的美国各州的一项前瞻性研究中，远程医疗药物堕胎（主要无需测试）是有效、安全的，并且与之前美国大规模面对面药物堕胎护理研究的结果相当。”
+    }，
+    {
+      "title": "中国预防乙肝母婴传播多层次干预项目的实际实施情况",
+      “链接”：“https://www.nature.com/articles/s41591-023-02782-x”，
+      “summary”：“SHIELD项目采用多层次干预措施，中期分析显示，中国不同医院和社区环境中乙肝病毒（HBV）的母婴传播（MTCT）率较低。”
+    }，
+    {
+      “title”：“世卫组织分娩护理指南对印度剖宫产的影响：一项实用的、分阶式、集群随机试点试验”，
+      “链接”：“https://www.nature.com/articles/s41591-023-02751-4”，
+      “summary”：“为了评估实施世卫组织分娩护理指南对剖宫产率的影响，与常规分娩护理相比，在印度进行的一项试点试验产生了有关该策略有效性的初步证据，可为更大规模的确定性试验提供信息。”
+    }，
+    {
+      "title": "宫颈筛查、分类和治疗策略对普通人群女性的益处、危害和成本效益",
+      “链接”：“https://www.nature.com/articles/s41591-023-02600-4”，
+      “摘要”：“对 78 个低收入和中低收入国家预防宫颈癌的筛查和治疗策略的模型评估为世界卫生组织对普通人群女性进行初级 HPV 检测的建议提供了证据。”
+    }，
+    {
+      "title": "宫颈筛查、分类和治疗策略对艾滋病毒感染妇女的益处和危害",
+      “链接”：“https://www.nature.com/articles/s41591-023-02601-3”，
+      “摘要”：“一个评估坦桑尼亚艾滋病毒感染妇女宫颈癌筛查、分类和治疗策略的模型提供了证据，支持世界卫生组织的建议，即从 25 岁开始进行初级 HPV 检测，每 3-5 年进行一次定期筛查。”
+    }，
+    {
+      “title”：“肯尼亚年轻女性单剂量 HPV 疫苗接种的持久性：随机对照试验 3 年结果”，
+      “链接”：“https://www.nature.com/articles/s41591-023-02658-0”，
+      “摘要”：“在对 KEN SHE 试验进行的预定 3 年分析中，单剂量 HPV 疫苗接种被证明具有良好的耐受性，并为 15-20 岁的肯尼亚女性提供了针对宫颈 HPV 感染的持久保护。”
+    }，
+    {
+      “title”：“女性遭受亲密伴侣暴力和儿童期性虐待对健康的影响：举证责任研究”，
+      “链接”：“https://www.nature.com/articles/s41591-023-02629-5”，
+      “摘要”：“使用举证责任风险函数的荟萃分析发现了一致的证据，支持亲密伴侣暴力侵害妇女行为与儿童性虐待对健康结果存在有害关联。”
+    }，
+    {
+      “title”：“对部分依从的顺性别女性进行口服暴露前预防艾滋病毒的疗效估计”，
+      “链接”：“https://www.nature.com/articles/s41591-023-02564-5”，
+      “摘要”：“每日服用抗逆转录病毒药物进行暴露前预防 (PrEP) 以预防人类免疫缺陷病毒 1 型感染，尚未证明对顺性别女性始终有效。对每日 PrEP 的依从性进行建模可以阐明如何实现强有力的保护。”
+    }，
+    {
+      “title”：“基于模型预测顺性别女性艾滋病毒暴露前预防治疗依从性水平”，
+      “链接”：“https://www.nature.com/articles/s41591-023-02615-x”，
+      “摘要”：“模型表明，抗逆转录病毒治疗作为暴露前预防（PrEP）可以对顺性别女性预防 HIV-1 感染非常有效，但强调需要了解限制女性遵守 PrEP 的障碍。”
+    }，
+    {
+      “title”：“非专家提供的以焦虑为重点的认知行为疗法预防产后抑郁症：一项随机 3 期试验”，
+      “链接”：“https://www.nature.com/articles/s41591-024-02809-x”，
+      “摘要”：“在第 3 阶段试验中，巴基斯坦非专业人员在怀孕期间提供的以焦虑为重点的认知行为疗法干预与强化护理相比，降低了产后抑郁和焦虑的发病率。”
+    }，
+    {
+      “title”：“人工智能工具读取免疫特征来检测疾病”，
+      “链接”：“https://www.nature.com/articles/d41591-025-00016-w”，
+      “摘要”：“机器学习框架——经过数千人的 B 细胞和 T 细胞受体序列的训练——可以检测一系列传染病和自身免疫性疾病。”
+    }，
+    {
+      “title”：“双特异性抗体为 NRG1 融合阳性癌症提供新治疗方法”，
+      “链接”：“https://www.nature.com/articles/d41591-025-00015-x”，
+      “摘要”：“在第 2 阶段注册试验中，zenocutuzumab 在多种 NRG1 融合阳性癌症类型中表现出持久的抗肿瘤活性，为几乎没有其他选择的患者提供了一种新的治疗方法。”
+    }，
+    {
+      “title”：“双重免疫疗法使某些转移性结直肠癌患者受益”，
+      “链接”：“https://www.nature.com/articles/d41591-025-00014-y”，
+      “摘要”：“第 3 阶段 CheckMate 8HW 试验表明，对于微卫星不稳定性高或错配修复缺陷的转​​移性结直肠癌患者，使用 nivolumab 加 ipilimumab（与 nivolumab 单药治疗相比）可获得更优的疗效。”
+    }，
+    {
+      “title”：“工程心肌使衰竭的心脏重新焕发活力”，
+      “链接”：“https://www.nature.com/articles/d41591-025-00013-z”，
+      “摘要”：“由诱导性多能干细胞设计的心肌移植增强了患有心力衰竭的恒河猴的心脏功能，同时来自单个患者的令人鼓舞的数据支持正在进行的临床评估。”
+    }，
+    {
+      “title”：“扭转工业化对肠道微生物群的影响”，
+      “链接”：“https://www.nature.com/articles/d41591-025-00010-2”，
+      “摘要”：“模仿非工业化饮食习惯的饮食‘恢复’策略对肠道微生物群显示出有益的影响，可以预测心脏代谢益处。”
+    }，
+    {
+      “title”：“估计加沙真实的创伤死亡人数”，
+      “链接”：“https://www.nature.com/articles/d41591-025-00008-w”，
+      “摘要”：“一种旨在解释数据缺口和漏报估计数的方法，估计因创伤而死亡的人数为 64,260 人——表明之前的报告低估了 41%。”
+    }，
+    {
+      "title": "识别杂货店里的超加工食品",
+      “链接”：“https://www.nature.com/articles/d41591-025-00007-x”，
+      “summary”：“GroceryDB 使用机器学习对美国商店中超过 50,000 种食品的加工程度进行分类，并通过可访问的数据引导消费者做出更健康的选择。”
+    }，
+    {
+      “title”：“产前血液检查可以揭示孕妇癌症”，
+      “链接”：“https://www.nature.com/articles/d41591-025-00006-y”，
+      “摘要”：“一项研究发现，在产前血液检查结果异常或无法报告后被转介进行癌症筛查的所有孕妇中，几乎有一半患有隐藏的癌症。”
+    }，
+    {
+      “title”：“月经周期与乳腺癌化疗反应相关”，
+      “链接”：“https://www.nature.com/articles/d41591-025-00004-0”，
+      “摘要”：“根据临床前研究和回顾性临床分析，月经周期可能会影响乳腺癌对新辅助化疗的反应——这表明可以通过安排治疗时间获得最佳效果。”
+    }，
+    {
+      "title": "绿色城市，更健康",
+      “链接”：“https://www.nature.com/articles/d41591-025-00001-3”，
+      “摘要”：“评估意大利各地居住区绿化的卫星数据表明，通过绿化居住区可以避免数千人死亡。”
+    }，
+    {
+      “title”：“早期读数显示新生儿基因组筛查前景光明”，
+      “链接”：“https://www.nature.com/articles/d41591-024-00082-6”，
+      “摘要”：“一项正在进行的大型研究的中期结果表明，新生儿基因组筛查可以发现标准测试可能遗漏的可治疗疾病。”
+    }，
+    {
+      "title": "互联网使用与老年人心理健康改善有关",
+      “链接”：“https://www.nature.com/articles/d41591-024-00081-7”，
+      “摘要”：“根据一项大型国际研究，50 岁或以上的成年人使用互联网与抑郁症状减少、生活满意度提高和自我报告健康状况改善相关。”
+    }，
+    {
+      “title”：“肥胖导致特定癌症驱动突变”，
+      “链接”：“https://www.nature.com/articles/d41591-024-00080-8”，
+      “摘要”：“大规模基因组分析揭示了体重指数与各种癌症类型，特别是肺腺癌的某些驱动突变之间的关联。”
+    }，
+    {
+      "title": "限制婴儿的糖摄入量可保护他们免受慢性疾病的侵害",
+      “链接”：“https://www.nature.com/articles/d41591-024-00079-1”，
+      “摘要”：“1953 年英国战后的配给制促成了一项自然实验，该实验表明，限制早期糖的摄入量可降低患糖尿病和高血压的风险。”
+    }，
+    {
+      "title": "一名受感染的奶牛场工人的 H5N1 病毒揭示了病毒的传播",
+      “链接”：“https://www.nature.com/articles/d41591-024-00078-2”，
+      “摘要”：“两项研究表明，病毒分离株在动物模型中具有很高的传染性和致死率，并暗示了潜在的药物敏感性——但进一步分析和持续监测感染对公共健康至关重要。”
+    }，
+    {
+      "title": "探索延长寿命的极限",
+      “链接”：“https://www.nature.com/articles/d41591-024-00076-4”，
+      “摘要”：“二十世纪高收入国家的预期寿命出现了前所未有的增长，但数据表明，如果不采取激进的干预措施减缓生物衰老，这种趋势将不会在本世纪持续下去。”
+    }，
+    {
+      “title”：“针对产后抑郁症的文化适应性 CBT”，
+      “链接”：“https://www.nature.com/articles/d41591-024-00077-3”，
+      “摘要”：“在英国南亚裔女性中，文化适应和社区知情的认知行为疗法干预比通常的治疗具有更高的早期康复率。”
+    }，
+    {
+      "title": "幽门螺杆菌、胃癌和筛查难题",
+      “链接”：“https://www.nature.com/articles/d41591-024-00075-5”，
+      “摘要”：“一项大型研究未能表明，在标准结肠癌筛查中加入幽门螺杆菌筛查可降低胃癌发病率或死亡率。”
+    }，
+    {
+      “title”：“膀胱癌围手术期免疫治疗”，
+      “链接”：“https://www.nature.com/articles/d41591-024-00074-6”，
+      “摘要”：“在 NIAGARA 试验中，在肌层浸润性膀胱癌的标准治疗中添加围手术期度伐单抗可改善无事件生存率和总体生存率，标志着这种疾病的新的治疗选择。”
+    }，
+    {
+      “title”：“聊天机器人改变了阴谋论者的想法”，
+      “链接”：“https://www.nature.com/articles/d41591-024-00073-7”，
+      “summary”：“一项针对 2,000 多人的研究表明，通过与大型语言模型进行交互，可以通过提供量身定制的一对一互动和令人信服的证据，减少人们对阴谋论（包括一些与 COVID-19 相关的阴谋论）的信仰。”
+    }，
+    {
+      "title": "特朗普提名的 NIH 负责人谈论冻结拨款和培养‘科学异议’",
+      “链接”：“https://www.nature.com/articles/d41586-025-00694-z”，
+      “summary”：“新闻 | 2025 年 3 月 6 日”
+    }，
+    {
+      "title": "独家：NIH 将终止数百项现行研究资助",
+      “链接”：“https://www.nature.com/articles/d41586-025-00703-1”，
+      “summary”：“新闻 | 2025 年 3 月 6 日”
+    }，
+    {
+      “title”：“愿景：保护和恢复珍贵的感觉”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00653-8”，
+      “summary”：“展望 | 2025 年 3 月 5 日”
+    }，
+    {
+      "title": "人类的回声定位是可以被教会的",
+      “链接”：“https://www.nature.com/articles/d41586-025-00657-4”，
+      “summary”：“展望 | 2025 年 3 月 5 日”
+    }，
+    {
+      “title”：“人工智能可以促进低收入国家的眼科护理”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00658-3”，
+      “summary”：“展望 | 2025 年 3 月 5 日”
+    }，
+    {
+      “title”：“为何女性的大脑更具弹性：这可能是她们‘沉默的’X 染色体”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00682-3”，
+      “summary”：“新闻 | 2025 年 3 月 5 日”
+    }，
+    {
+      "title": "如何让眼疾的治疗变得更容易？",
+      “链接”：“https://www.nature.com/articles/d41586-025-00655-6”，
+      “summary”：“展望 | 2025 年 3 月 5 日”
+    }，
+    {
+      “title”：“利用光遗传学恢复视力”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00656-5”，
+      “summary”：“展望 | 2025 年 3 月 5 日”
+    }，
+    {
+      "title": "寻找解决视网膜地图样萎缩的方法",
+      “链接”：“https://www.nature.com/articles/d41586-025-00659-2”，
+      “summary”：“展望 | 2025 年 3 月 5 日”
+    }，
+    {
+      “title”：“眼睛问题影响 NASA 对火星的观察”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00654-7”，
+      “summary”：“展望 | 2025 年 3 月 5 日”
+    }，
+    {
+      “title”：“设计大麻素可能是缓解疼痛且无副作用的关键”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00546-w”，
+      “summary”：“新闻与观点 | 2025 年 3 月 5 日”
+    }，
+    {
+      “title”：“大脑如何决定何时坚持、放弃或尝试新事物”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00631-0”，
+      “summary”：“研究简报 | 2025 年 3 月 5 日”
+    }，
+    {
+      "title": "神经元活动的多样性可能是由输入的差异引起的",
+      “链接”：“https://www.nature.com/articles/d41586-025-00634-x”，
+      “summary”：“研究简报 | 2025 年 3 月 5 日”
+    }，
+    {
+      “title”：“这种关键蛋白质可能导致大脑衰老”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00689-w”，
+      “summary”：“新闻 | 2025 年 3 月 5 日”
+    }，
+    {
+      “title”：“大脑如何决定是否坚持——以及何时放弃”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00675-2”，
+      “summary”：“新闻 | 2025 年 3 月 5 日”
+    }，
+    {
+      “title”：“SARS-CoV-2 从相同病原体序列传播的精细模式”，
+      “链接”：“https://www.nature.com/articles/s41586-025-08637-4”，
+      “summary”：“文章\n2025 年 3 月 5 日 | 开放获取”
+    }，
+    {
+      “title”：“训练临床 AI 像医生团队一样推理”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00618-x”，
+      “summary”：“评论 | 2025 年 3 月 4 日”
+    }，
+    {
+      "title": "利用你的研究来克服健康不平等：专家提出的四种策略",
+      “链接”：“https://www.nature.com/articles/d41586-025-00619-w”，
+      “summary”：“评论 | 2025 年 3 月 3 日”
+    }，
+    {
+      “title”：“学术界的‘孤狼’文化如何损害研究人员的心理健康”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00603-4”，
+      “summary”：“《自然》职业播客 | 2025 年 2 月 28 日”
+    }，
+    {
+      "title": "消费级智能手表的脉搏检测自动丢失",
+      “链接”：“https://www.nature.com/articles/s41586-025-08810-9”，
+      “summary”：“文章 | 2025 年 2 月 26 日”
+    }，
+    {
+      "title": "如果你的心脏停止跳动，这款智能手表人工智能可以呼救",
+      “链接”：“https://www.nature.com/articles/d41586-025-00601-6”，
+      “summary”：“《自然》播客 | 2025 年 2 月 26 日”
+    }，
+    {
+      “title”：“‘粘液’保护大脑——并能防止衰老”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00554-w”，
+      “summary”：“新闻 | 2025 年 2 月 26 日”
+    }，
+    {
+      “title”：“揭露 Theranos 丑闻如何改变了 Erika Cheung 的职业生涯”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00366-y”，
+      “summary”：“职业专题 | 2025 年 2 月 26 日”
+    }，
+    {
+      "title": "养老院居民的皮肤是传播有害和耐药性微生物的来源",
+      “链接”：“https://www.nature.com/articles/d41586-025-00306-w”，
+      “summary”：“新闻与观点 | 2025 年 2 月 26 日”
+    }，
+    {
+      “title”：“NIH 动荡引发对其全球拨款前景的担忧”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00595-1”，
+      “summary”：“新闻 | 2025 年 2 月 26 日”
+    }，
+    {
+      “title”：“基于质谱的蛋白质组学：从单细胞到临床应用”，
+      “链接”：“https://www.nature.com/articles/s41586-025-08584-0”，
+      “summary”：“评论文章 | 2025 年 2 月 26 日”
+    }，
+    {
+      “title”：“糖萼失调会损害衰老和疾病中的血脑屏障”，
+      “链接”：“https://www.nature.com/articles/s41586-025-08589-9”，
+      “summary”：“文章\n2025 年 2 月 26 日 | 开放获取”
+    }，
+    {
+      “title”：“养老院居民皮肤上的克隆耳念珠菌和 ESKAPE 病原体”，
+      “链接”：“https://www.nature.com/articles/s41586-025-08608-9”，
+      “summary”：“文章 | 2025 年 2 月 26 日”
+    }，
+    {
+      “title”：“十万人基因组计划中发现的罕见疾病基因关联”，
+      “链接”：“https://www.nature.com/articles/s41586-025-08623-w”，
+      “summary”：“文章\n2025 年 2 月 26 日 | 开放获取”
+    }，
+    {
+      "title": "国家气候政策必须解决心理健康问题",
+      “链接”：“https://www.nature.com/articles/d41586-025-00587-1”，
+      “summary”：“通讯 | 2025 年 2 月 25 日”
+    }，
+    {
+      “title”：“你的衰老速度有多快？分子‘时钟’能告诉你哪些有关你健康的信息”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00566-6”，
+      “summary”：“新闻专题 | 2025 年 2 月 25 日”
+    }，
+    {
+      “title”：“乳腺癌发病率呈上升趋势：数据显示生存率差距巨大”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00265-2”，
+      “summary”：“新闻 | 2025 年 2 月 24 日”
+    }，
+    {
+      “title”：“新冠病毒暴露出的种族不平等现象不容遗忘”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00458-9”，
+      “summary”：“书评 | 2025 年 2 月 24 日”
+    }，
+    {
+      “title”：“垃圾食品的泛滥如何改变你的大脑活动”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00549-7”，
+      “summary”：“新闻 | 2025 年 2 月 21 日”
+    }，
+    {
+      “title”：“对早期癌症检测进行测试”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00530-4”，
+      “summary”：“展望 | 2025 年 2 月 21 日”
+    }，
+    {
+      "title": "如何给你的实验室带来健康和快乐",
+      “链接”：“https://www.nature.com/articles/d41586-025-00538-w”，
+      “summary”：“《自然》职业播客 | 2025 年 2 月 21 日”
+    }，
+    {
+      “title”：“癌症进化可以为个性化抗癌疫苗提供目标”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00467-8”，
+      “summary”：“临床简报 | 2025 年 2 月 21 日”
+    }，
+    {
+      "title": "是什么引发了新冠疫情？越来越多的证据表明是貉造成的",
+      “链接”：“https://www.nature.com/articles/d41586-025-00426-3”，
+      “summary”：“新闻 | 2025 年 2 月 21 日”
+    }，
+    {
+      "title": "人工智能工具通过血液样本诊断糖尿病、艾滋病毒和新冠肺炎",
+      “链接”：“https://www.nature.com/articles/d41586-025-00528-y”，
+      “summary”：“新闻 | 2025 年 2 月 20 日”
+    }，
+    {
+      “title”：“慢性压力如何扭曲决策”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00502-8”，
+      “summary”：“新闻 | 2025 年 2 月 19 日”
+    }，
+    {
+      “title”：“定制疫苗可以引发针对胰腺癌的长期免疫活动”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00470-z”，
+      “summary”：“临床简报 | 2025 年 2 月 19 日”
+    }，
+    {
+      “title”：“癌症中异常 RNA 加工产生的肽提供了免疫治疗靶点”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00302-0”，
+      “summary”：“新闻与观点 | 2025 年 2 月 19 日”
+    }，
+    {
+      “title”：“世界卫生组织下一步该怎么做？美国退出可能重塑该机构”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00449-w”，
+      “summary”：“新闻解读 | 2025 年 2 月 19 日”
+    }，
+    {
+      “title”：“人工智能用于模拟传染病流行病”，
+      “链接”：“https://www.nature.com/articles/s41586-024-08564-w”，
+      “summary”：“观点 | 2025 年 2 月 19 日”
+    }，
+    {
+      “title”：“吸取新冠疫情的教训——趁还没太迟”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00498-1”，
+      “summary”：“社论 | 2025 年 2 月 18 日”
+    }，
+    {
+      “title”：“迷幻药能否通过微调来缓解焦虑，但又省去‘旅行’的环节？”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00454-z”，
+      “summary”：“新闻与观点 | 2025 年 2 月 18 日”
+    }，
+    {
+      “title”：“偏头痛不仅仅是头痛——彻底的反思为十亿人带来希望”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00456-x”，
+      “summary”：“新闻专题 | 2025 年 2 月 18 日”
+    }，
+    {
+      “title”：“精确定位阻碍癌症治疗的神经元”，
+      “链接”：“https://www.nature.com/articles/d41586-025-00501-9”，
+      “summary”：“新闻与观点 | 2025 年 2 月 18 日”
+    }，
+    {
+      “title”：“胰腺癌重编程的单个神经元的表征”，
+      “链接”：“https://www.nature.com/articles/s41586-025-08735-3”，
+      “summary”：“文章 | 2025 年 2 月 17 日”
+    }，
+    {
+      "title": "疫苗怀疑论者罗伯特·肯尼迪 (RFK Jr) 现在已成为美国科学界的一股强大力量：他会做什么？",
+      “链接”：“https://www.nature.com/articles/d41586-025-00439-y”，
+      “summary”：“新闻 | 2025 年 2 月 13 日”
+    }，
+    {
+      "title": "世卫组织警告：资金削减危及全球抗击结核病的努力",
+      "链接": "https://news.un.org/en/story/2025/03/1160826",
+      “摘要”：“Facebook Twitter”
+    }，
+    {
+      "title": "联合国禁毒机构警告：合成毒品“快速扩张”重塑非法市场",
+      "链接": "https://news.un.org/en/story/2025/03/1160741",
+      “摘要”：“Facebook Twitter”
+    }，
+    {
+      "title": "刚果民主共和国：世卫组织追踪致命的神秘疾病",
+      "链接": "https://news.un.org/en/story/2025/02/1160596",
+      “摘要”：“Facebook Twitter”
+    }，
+    {
+      “title”：“新报告指出美国削减全球艾滋病应对资金的严重性”，
+      "链接": "https://news.un.org/en/story/2025/02/1160561",
+      “摘要”：“Facebook Twitter”
+    }，
+    {
+      “title”：“世界新闻简讯：刚果民主共和国冲突、欧洲“从摇篮到甘蔗”危机、乍得数百万人可能挨饿”，
+      "链接": "https://news.un.org/en/story/2025/02/1160501",
+      “摘要”：“Facebook Twitter”
+    }，
+    {
+      "title": "世卫组织纪念拯救生命的烟草控制条约颁布 20 周年",
+      "链接": "https://news.un.org/en/story/2025/02/1160481",
+      “摘要”：“Facebook Twitter”
+    }，
+    {
+      “title”：“世界卫生组织警告：到 2050 年，乳腺癌病例预计将增加近 40％”，
+      "链接": "https://news.un.org/en/story/2025/02/1160391",
+      “摘要”：“Facebook Twitter”
+    }，
+    {
+      "title": "加沙开始新一轮脊髓灰质炎疫苗接种",
+      "链接": "https://news.un.org/en/story/2025/02/1160411",
+      “摘要”：“Facebook Twitter”
+    }，
+    {
+      "title": "解释：关于童婚的 5 个常见误解",
+      "链接": "https://news.un.org/en/story/2025/02/1160241",
+      “摘要”：“Facebook Twitter”
+    }，
+    {
+      "title": "联合国将继续在加沙开展脊髓灰质炎疫苗接种活动",
+      "链接": "https://news.un.org/en/story/2025/02/1160271",
+      “摘要”：“Facebook Twitter”
+    }，
+    {
+      "title": "世卫组织回顾 2024 年",
+      “链接”：“https://www.who.int/news-room/spotlight/who-looks-back-at-2024”，
+      “summary”：“无可用摘要”
+    }，
+    {
+      "title": "苏丹：联合国儿童基金会警告：冲突期间年仅一岁的儿童遭强奸",
+      "链接": "https://news.un.org/en/story/2025/03/1160761",
+      “摘要”：“Facebook Twitter”
+    }，
+    {
+      “title”：“联合国维和行动负责人称，联合国维和行动面临的最大威胁是国家之间的分裂”，
+      "链接": "https://news.un.org/en/story/2025/02/1160536",
+      “摘要”：“Facebook Twitter”
+    }，
+    {
+      "title": "乌克兰：三年战争扭转了妇女和女童权益的进步",
+      "链接": "https://news.un.org/en/story/2025/02/1160291",
+      “摘要”：“Facebook Twitter”
+    }，
+    {
+      "title": "联合国儿童基金会对刚果民主共和国东部儿童危机发出警报",
+      "链接": "https://news.un.org/en/story/2025/02/1160101",
+      “摘要”：“Facebook Twitter”
+    }，
+    {
+      “title”：“努力实现梦想：‘我们知道答案’，以支持 STEM 领域的女性”，
+      "链接": "https://news.un.org/en/story/2025/02/1160041",
+      “摘要”：“Facebook Twitter”
+    }，
+    {
+      “title”：“‘她拿着注射器、剃须刀片和绷带’：幸存的生殖器切割”，
+      "链接": "https://news.un.org/en/story/2025/02/1159886",
+      “摘要”：“Facebook Twitter”
+    }，
+    {
+      "title": "联合国呼吁加快步伐，终止女性生殖器切割",
+      "链接": "https://news.un.org/en/story/2025/02/1159876",
+      “摘要”：“Facebook Twitter”
+    }，
+    {
+      “title”：“‘新一代与众不同’：在吉布提，活动人士呼吁终止女性生殖器切割”，
+      "链接": "https://news.un.org/en/story/2025/02/1159786",
+      “摘要”：“Facebook Twitter”
+    }，
+    {
+      "title": "世界新闻简讯：世卫组织总干事要求美国重新考虑退出，性别平等仍遥不可及，呼吁重新考虑北欧酒精法改革",
+      "链接": "https://news.un.org/en/story/2025/02/1159711",
+      “摘要”：“Facebook Twitter”
+    }，
+    {
+      "title": "美国：联合国人权专家欢迎法院裁决重申教育领域基于性别的保护",
+      "链接": "https://news.un.org/en/story/2025/01/1159011",
+      “摘要”：“Facebook Twitter”
+    }
+  ]

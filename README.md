@@ -139,3 +139,6 @@ build:front-end      - Builds the frontend application for production
 build:all            - Builds all applications for production
 e2e                  - Runs end-to-end tests
 ```
+
+## 清理缓存
+npx nx reset
